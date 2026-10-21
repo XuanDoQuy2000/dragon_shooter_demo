@@ -9,9 +9,9 @@
       "data": "art-0.json",
       "width": 724,
       "height": 879,
-      "bytes": 170049,
+      "bytes": 170221,
       "decodedBytes": 2545584,
-      "sha256": "151f9a30249fadaea8fcde0ba7195cdf0d24ddf77f656bebaecd35443998ce2f"
+      "sha256": "592eb41b34a3fa8ec85d813cc055cbf8297d8d3de7b890925a01918888f2d96d"
     }
   ],
   "assets": [
@@ -1079,6 +1079,17 @@
       "sourceSvgSha256": "1c96aa62e2bf7c10940fa24101bfcba99d2c8ebb8d47ae50250775c92ce17315"
     },
     {
+      "name": "fx-impact",
+      "atlas": "art-0.json",
+      "width": 14,
+      "height": 14,
+      "pivot": {
+        "x": 7,
+        "y": 7
+      },
+      "sourceSvgSha256": "9bbfc99d7773e10fe4fb8117df7258cedc3aafb754bf09fd6e81dabf2a2d055c"
+    },
+    {
       "name": "fx-ember",
       "atlas": "art-0.json",
       "width": 6,
@@ -1326,7 +1337,7 @@
     }
   ],
   "totals": {
-    "bytes": 170049,
+    "bytes": 170221,
     "decodedBytes": 2545584,
     "audioBytes": 169808,
     "fontBytes": 188872

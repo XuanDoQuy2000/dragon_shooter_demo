@@ -7,11 +7,11 @@
       "name": "art",
       "image": "art-0.png",
       "data": "art-0.json",
-      "width": 724,
-      "height": 879,
-      "bytes": 170221,
-      "decodedBytes": 2545584,
-      "sha256": "592eb41b34a3fa8ec85d813cc055cbf8297d8d3de7b890925a01918888f2d96d"
+      "width": 753,
+      "height": 1011,
+      "bytes": 233691,
+      "decodedBytes": 3045132,
+      "sha256": "ca503e5664384dc0e062f3e78bb58dd0443d1d7ff47c1afa1fbb55c43478e550"
     }
   ],
   "assets": [
@@ -936,6 +936,72 @@
       "sourceSvgSha256": "078463e5440b82a59f48e498f6caac26e46471b2c39beeb796497ec0d2e02f9f"
     },
     {
+      "name": "enemy-shooter",
+      "atlas": "art-0.json",
+      "width": 30,
+      "height": 30,
+      "pivot": {
+        "x": 15,
+        "y": 15
+      },
+      "sourceSvgSha256": "40788692d652bf3a9eacb222b7bbadf20fd70e907ca419301177f652d35db5cb"
+    },
+    {
+      "name": "enemy-parachute",
+      "atlas": "art-0.json",
+      "width": 24,
+      "height": 24,
+      "pivot": {
+        "x": 12,
+        "y": 12
+      },
+      "sourceSvgSha256": "b2b352c68be89d4ec4c8516e13097924c4f38966255f42393800e1bb2881fb83"
+    },
+    {
+      "name": "enemy-balloon",
+      "atlas": "art-0.json",
+      "width": 28,
+      "height": 28,
+      "pivot": {
+        "x": 14,
+        "y": 14
+      },
+      "sourceSvgSha256": "291b853f91bcc13e63a6a03a30298426ddc83ee1775128fe7ccb0640abc57573"
+    },
+    {
+      "name": "boss-brood",
+      "atlas": "art-0.json",
+      "width": 62,
+      "height": 62,
+      "pivot": {
+        "x": 31,
+        "y": 31
+      },
+      "sourceSvgSha256": "6a72456e5beb5280364bc7556d149644f14e737b84b6816363cacd7f5d42a5f8"
+    },
+    {
+      "name": "boss-door",
+      "atlas": "art-0.json",
+      "width": 20,
+      "height": 20,
+      "pivot": {
+        "x": 10,
+        "y": 10
+      },
+      "sourceSvgSha256": "fd9c078713cd1627497011c74436200ea30e53c476883c1add2f15dec48da1ea"
+    },
+    {
+      "name": "fx-warning",
+      "atlas": "art-0.json",
+      "width": 34,
+      "height": 34,
+      "pivot": {
+        "x": 17,
+        "y": 17
+      },
+      "sourceSvgSha256": "ec07a7f16716723a390953ee9aa9c8d4e6debad15f34b87e22cadb44c438b382"
+    },
+    {
       "name": "boss-lord",
       "atlas": "art-0.json",
       "width": 150,
@@ -945,6 +1011,28 @@
         "y": 45
       },
       "sourceSvgSha256": "fe998b7ab336572e61491061d06b61143bbb5ac27796970307c2892135efbb4a"
+    },
+    {
+      "name": "boss-lord-2",
+      "atlas": "art-0.json",
+      "width": 150,
+      "height": 80,
+      "pivot": {
+        "x": 75,
+        "y": 45
+      },
+      "sourceSvgSha256": "b5ebe389d0ae066478f6c4673f6f946559549b1025ef6f0bf3042eeac74e7318"
+    },
+    {
+      "name": "boss-region-1",
+      "atlas": "art-0.json",
+      "width": 82,
+      "height": 82,
+      "pivot": {
+        "x": 41,
+        "y": 41
+      },
+      "sourceSvgSha256": "301db2a4b96c77cdb618aa248d42b4a2f89cd15e1d0e35883eefbf6b43d6be1f"
     },
     {
       "name": "dragon-bullet-fire",
@@ -1337,8 +1425,8 @@
     }
   ],
   "totals": {
-    "bytes": 170221,
-    "decodedBytes": 2545584,
+    "bytes": 233691,
+    "decodedBytes": 3045132,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

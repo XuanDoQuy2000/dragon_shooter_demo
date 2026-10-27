@@ -9,9 +9,9 @@
       "data": "art-0.json",
       "width": 753,
       "height": 1011,
-      "bytes": 233691,
+      "bytes": 237542,
       "decodedBytes": 3045132,
-      "sha256": "ca503e5664384dc0e062f3e78bb58dd0443d1d7ff47c1afa1fbb55c43478e550"
+      "sha256": "eaaa38b4e3514578e4e2a00fb95b900a80dac375f8e280cfba731c0e58f791a6"
     }
   ],
   "assets": [
@@ -947,6 +947,17 @@
       "sourceSvgSha256": "40788692d652bf3a9eacb222b7bbadf20fd70e907ca419301177f652d35db5cb"
     },
     {
+      "name": "enemy-kamikaze",
+      "atlas": "art-0.json",
+      "width": 30,
+      "height": 30,
+      "pivot": {
+        "x": 15,
+        "y": 15
+      },
+      "sourceSvgSha256": "7b6c83dda98e4d04f7e1813a41165002ce9b027f0dd1537e0ee09a84c170ca5b"
+    },
+    {
       "name": "enemy-parachute",
       "atlas": "art-0.json",
       "width": 24,
@@ -1425,7 +1436,7 @@
     }
   ],
   "totals": {
-    "bytes": 233691,
+    "bytes": 237542,
     "decodedBytes": 3045132,
     "audioBytes": 169808,
     "fontBytes": 188872

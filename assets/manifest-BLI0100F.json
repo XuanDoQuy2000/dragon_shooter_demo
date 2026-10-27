@@ -9,9 +9,9 @@
       "data": "art-0.json",
       "width": 753,
       "height": 1011,
-      "bytes": 237542,
+      "bytes": 238542,
       "decodedBytes": 3045132,
-      "sha256": "eaaa38b4e3514578e4e2a00fb95b900a80dac375f8e280cfba731c0e58f791a6"
+      "sha256": "ae4df1b3c258f6be31ecda8aa57c8d3bb5ca2868b25350564abcb1717e21a8f6"
     }
   ],
   "assets": [
@@ -1200,6 +1200,17 @@
       "sourceSvgSha256": "426d988edda38d6fe38d99d15c51dfe0358aa6501bcb06d9b2a0b6362329e33d"
     },
     {
+      "name": "fx-flame",
+      "atlas": "art-0.json",
+      "width": 20,
+      "height": 19,
+      "pivot": {
+        "x": 10,
+        "y": 15
+      },
+      "sourceSvgSha256": "b3f220c633bc3c9b8d9c4a768a849cf61311d17cc9d77d56bcf310a9f20f1e52"
+    },
+    {
       "name": "fx-puff",
       "atlas": "art-0.json",
       "width": 11,
@@ -1436,7 +1447,7 @@
     }
   ],
   "totals": {
-    "bytes": 237542,
+    "bytes": 238542,
     "decodedBytes": 3045132,
     "audioBytes": 169808,
     "fontBytes": 188872

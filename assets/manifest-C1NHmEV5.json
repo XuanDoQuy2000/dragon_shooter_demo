@@ -7,11 +7,21 @@
       "name": "art",
       "image": "art-0.png",
       "data": "art-0.json",
-      "width": 912,
-      "height": 894,
-      "bytes": 335958,
-      "decodedBytes": 3261312,
-      "sha256": "e188d053a80b9cd4fa47018519258afdcf9296a3fb7d0f739f9964596b5a1986"
+      "width": 969,
+      "height": 909,
+      "bytes": 631769,
+      "decodedBytes": 3523284,
+      "sha256": "9c217632d53a4d40776a73baf9c2c3338397b16b2c1bcde20c175496039f2080"
+    },
+    {
+      "name": "art",
+      "image": "art-1.png",
+      "data": "art-1.json",
+      "width": 724,
+      "height": 132,
+      "bytes": 6957,
+      "decodedBytes": 382272,
+      "sha256": "047711ac0d21ac581ed5c2b785c3245f5dc5db46465ea92f39e3050416ed700a"
     }
   ],
   "assets": [
@@ -1026,24 +1036,39 @@
     {
       "name": "boss-brood",
       "atlas": "art-0.json",
-      "width": 62,
-      "height": 62,
+      "width": 136.5,
+      "height": 125.5,
       "pivot": {
-        "x": 31,
-        "y": 31
+        "x": 68.18181818181819,
+        "y": 64.08558238636364
       },
-      "sourceSvgSha256": "6a72456e5beb5280364bc7556d149644f14e737b84b6816363cacd7f5d42a5f8"
+      "sourceSha256": "3a8796a0476e2ae79b881f236fb6b56e0ce0b9321170b06c975e3cfa43f4ff7d"
+    },
+    {
+      "name": "boss-brood-inside",
+      "atlas": "art-0.json",
+      "width": 31.5,
+      "height": 34,
+      "pivot": {
+        "x": 15.846946022727273,
+        "y": 16.94424715909091
+      },
+      "sourceSha256": "478b7028e5b8a392f90001225eb99d59931d9170b9977f883a21935b32beb30f"
     },
     {
       "name": "boss-door",
       "atlas": "art-0.json",
-      "width": 20,
-      "height": 20,
+      "width": 32.5,
+      "height": 34.5,
       "pivot": {
-        "x": 10,
-        "y": 10
+        "x": 0,
+        "y": 17.311789772727273
       },
-      "sourceSvgSha256": "fd9c078713cd1627497011c74436200ea30e53c476883c1add2f15dec48da1ea"
+      "offset": {
+        "x": -16.246448863636363,
+        "y": -0.031960227272728486
+      },
+      "sourceSha256": "ff5eb8dbd10a46a2626199618f425dc0fffeb9b31dc892ad576b776af796fa59"
     },
     {
       "name": "fx-warning",
@@ -1059,35 +1084,35 @@
     {
       "name": "boss-lord",
       "atlas": "art-0.json",
-      "width": 150,
-      "height": 80,
+      "width": 96.5,
+      "height": 92,
       "pivot": {
-        "x": 75,
-        "y": 45
+        "x": 48.148148148148145,
+        "y": 53.35792824074073
       },
-      "sourceSvgSha256": "fe998b7ab336572e61491061d06b61143bbb5ac27796970307c2892135efbb4a"
+      "sourceSha256": "f6104b47e580ee09b44259169565fd13746dbbde7666f7734b0e63c644ac55e1"
     },
     {
       "name": "boss-lord-2",
       "atlas": "art-0.json",
-      "width": 150,
-      "height": 80,
+      "width": 96,
+      "height": 89,
       "pivot": {
-        "x": 75,
-        "y": 45
+        "x": 48.148148148148145,
+        "y": 60.666666666666664
       },
-      "sourceSvgSha256": "b5ebe389d0ae066478f6c4673f6f946559549b1025ef6f0bf3042eeac74e7318"
+      "sourceSha256": "1dd50770cfee0bd4c5d312e5f358679f2f7ed13620e3f576b2c1fc43ac6ffea5"
     },
     {
       "name": "boss-region-1",
       "atlas": "art-0.json",
-      "width": 82,
-      "height": 82,
+      "width": 157,
+      "height": 143,
       "pivot": {
-        "x": 41,
-        "y": 41
+        "x": 78.43137254901961,
+        "y": 90.97426470588236
       },
-      "sourceSvgSha256": "301db2a4b96c77cdb618aa248d42b4a2f89cd15e1d0e35883eefbf6b43d6be1f"
+      "sourceSha256": "52643e2dc01cc2e0ccbaad4c98fb11514dc5bd0c3159b476f481e9cda3b88604"
     },
     {
       "name": "dragon-bullet-fire",
@@ -1143,17 +1168,6 @@
         "y": 18
       },
       "sourceSvgSha256": "b3d64ae35f3382d8003a31acaf9d8a27e853350883269890563ce0ea2fbf7e1c"
-    },
-    {
-      "name": "storm-band",
-      "atlas": "art-0.json",
-      "width": 360,
-      "height": 64,
-      "pivot": {
-        "x": 180,
-        "y": 0
-      },
-      "sourceSvgSha256": "6a48f913e0ed712a15b979a32f85ba18db0c597b9cee4b2d2f8dfb92d8b71607"
     },
     {
       "name": "ice-block",
@@ -1352,6 +1366,105 @@
         "y": 16
       },
       "sourceSvgSha256": "2dbaf46487f865fdeb5efb5b0ea6ddc97dc0177f55f4699d80c3684bfc10a304"
+    },
+    {
+      "name": "slow-enemy-small",
+      "atlas": "art-0.json",
+      "width": 53,
+      "height": 51.5,
+      "pivot": {
+        "x": 26.833333333333332,
+        "y": 25.579166666666666
+      },
+      "sourceSha256": "7055807c64d073d8616070bca14e0f313cfda8ab9f4ec648179e25fe1074f448"
+    },
+    {
+      "name": "slow-enemy-carrier",
+      "atlas": "art-0.json",
+      "width": 73,
+      "height": 40,
+      "pivot": {
+        "x": 36.5,
+        "y": 30.5
+      },
+      "sourceSha256": "0dbdf4d9f1d7200977680a14865ac79918adf2d25b44af1e2ed863bec1647ded"
+    },
+    {
+      "name": "slow-enemy-swarm",
+      "atlas": "art-0.json",
+      "width": 45.5,
+      "height": 41.5,
+      "pivot": {
+        "x": 22.607013081395348,
+        "y": 18.68463844476744
+      },
+      "sourceSha256": "bbc14e6142ae5899d9857157656fa57d2d48e4cf7b67b230a306d41140fee900"
+    },
+    {
+      "name": "slow-enemy-ritual",
+      "atlas": "art-0.json",
+      "width": 39,
+      "height": 44,
+      "pivot": {
+        "x": 19.5,
+        "y": 24.5
+      },
+      "sourceSha256": "5bb2f049ce4cf2eb77ce11951249d1029eb0d7618009c71cd997a36b990e151a"
+    },
+    {
+      "name": "slow-enemy-shooter",
+      "atlas": "art-0.json",
+      "width": 53,
+      "height": 41,
+      "pivot": {
+        "x": 27.249999999999996,
+        "y": 22.436914062499998
+      },
+      "sourceSha256": "d4b7eeb7bee195006ec6cb41d7a58e8ceccd2d73173a03887c889a3ee18f7572"
+    },
+    {
+      "name": "slow-enemy-kamikaze",
+      "atlas": "art-0.json",
+      "width": 67,
+      "height": 68,
+      "pivot": {
+        "x": 32.77628800675676,
+        "y": 33.037457770270265
+      },
+      "sourceSha256": "3c8efb5fc8cc4996e7776be211a42ea181ce01ef11f0afc3eb995e39706847d9"
+    },
+    {
+      "name": "slow-enemy-parachute",
+      "atlas": "art-0.json",
+      "width": 31,
+      "height": 31,
+      "pivot": {
+        "x": 15.5,
+        "y": 15.5
+      },
+      "sourceSha256": "5b71f3d616b617105ab98efdf1607a59fffac7e13c8104cff442a0b4d0d00084"
+    },
+    {
+      "name": "slow-enemy-balloon",
+      "atlas": "art-0.json",
+      "width": 35,
+      "height": 35,
+      "pivot": {
+        "x": 17.5,
+        "y": 17.5
+      },
+      "sourceSha256": "ddba8adc010fa821fd33d5654bd4414dfa4262d37068c72b286d3b5ce54ff68b"
+    },
+    {
+      "name": "storm-band",
+      "atlas": "art-1.json",
+      "width": 360,
+      "height": 64,
+      "pivot": {
+        "x": 180,
+        "y": 0
+      },
+      "sourceSvgSha256": "6a48f913e0ed712a15b979a32f85ba18db0c597b9cee4b2d2f8dfb92d8b71607"
     }
   ],
   "sounds": [
@@ -1491,8 +1604,8 @@
     }
   ],
   "totals": {
-    "bytes": 335958,
-    "decodedBytes": 3261312,
+    "bytes": 638726,
+    "decodedBytes": 3905556,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

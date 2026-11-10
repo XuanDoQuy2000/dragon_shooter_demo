@@ -1,8 +1,32 @@
 {
   "frames": {
-    "storm-band": {
+    "slow-enemy-kamikaze": {
       "frame": {
         "x": 2,
+        "y": 2,
+        "w": 134,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 136
+      },
+      "pivot": {
+        "x": 0.4891983284590561,
+        "y": 0.4858449672098568
+      }
+    },
+    "storm-band": {
+      "frame": {
+        "x": 142,
         "y": 2,
         "w": 720,
         "h": 128
@@ -29,8 +53,8 @@
     "image": "art-1.png",
     "format": "RGBA8888",
     "size": {
-      "w": 724,
-      "h": 132
+      "w": 864,
+      "h": 140
     },
     "scale": "2"
   }

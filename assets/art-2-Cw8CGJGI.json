@@ -24,57 +24,9 @@
         "y": 0.4858449672098568
       }
     },
-    "slow-enemy-ritual": {
-      "frame": {
-        "x": 142,
-        "y": 2,
-        "w": 78,
-        "h": 88
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 78,
-        "h": 88
-      },
-      "sourceSize": {
-        "w": 78,
-        "h": 88
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5568181818181818
-      }
-    },
-    "slow-enemy-shooter": {
-      "frame": {
-        "x": 2,
-        "y": 144,
-        "w": 106,
-        "h": 82
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 106,
-        "h": 82
-      },
-      "sourceSize": {
-        "w": 106,
-        "h": 82
-      },
-      "pivot": {
-        "x": 0.5141509433962264,
-        "y": 0.547241806402439
-      }
-    },
     "slow-enemy-small": {
       "frame": {
-        "x": 226,
+        "x": 142,
         "y": 2,
         "w": 106,
         "h": 103
@@ -96,34 +48,10 @@
         "y": 0.4966828478964401
       }
     },
-    "slow-enemy-swarm": {
-      "frame": {
-        "x": 142,
-        "y": 111,
-        "w": 91,
-        "h": 83
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 91,
-        "h": 83
-      },
-      "sourceSize": {
-        "w": 91,
-        "h": 83
-      },
-      "pivot": {
-        "x": 0.4968574303603373,
-        "y": 0.4502322516811431
-      }
-    },
     "storm-band": {
       "frame": {
         "x": 2,
-        "y": 232,
+        "y": 144,
         "w": 720,
         "h": 128
       },
@@ -150,7 +78,7 @@
     "format": "RGBA8888",
     "size": {
       "w": 724,
-      "h": 362
+      "h": 274
     },
     "scale": "2"
   }

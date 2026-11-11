@@ -7,21 +7,21 @@
       "name": "art",
       "image": "art-0.png",
       "data": "art-0.json",
-      "width": 1022,
-      "height": 1025,
-      "bytes": 874617,
-      "decodedBytes": 4190200,
-      "sha256": "7c806d71ba10dcce5a0161c7429350cdbc8aea23aa515d48a34ba752ed414fbf"
+      "width": 1016,
+      "height": 994,
+      "bytes": 879119,
+      "decodedBytes": 4039616,
+      "sha256": "8ec305208ff23d8de2fad09e6601ee41e7a0f566b5cfd9a1bbc2dce27e26e2d1"
     },
     {
       "name": "art",
       "image": "art-1.png",
       "data": "art-1.json",
-      "width": 1013,
-      "height": 972,
-      "bytes": 733171,
-      "decodedBytes": 3938544,
-      "sha256": "4b19a2ed3bdacf1c44d045fdbee3643876c4e776ff675cad78f826f380d690a9"
+      "width": 999,
+      "height": 1005,
+      "bytes": 736382,
+      "decodedBytes": 4015980,
+      "sha256": "29dc43fcc243654c66bc0961f618134a7c1bfeee73733055e927effac840ad1d"
     },
     {
       "name": "art",
@@ -770,21 +770,6 @@
       "sourceSha256": "da232605a33c430d241daf311f9a8e0e202c61628cacf057279d5c728ea7a427"
     },
     {
-      "name": "dragon-ice-wing-1",
-      "atlas": "art-0.json",
-      "width": 35.5,
-      "height": 56.5,
-      "pivot": {
-        "x": 32.209100719424455,
-        "y": 11.129460431654678
-      },
-      "offset": {
-        "x": -3.42,
-        "y": -2.87
-      },
-      "sourceSha256": "019e7e295951b2decbfc8059efd6bb0a8ee4f79c41e31d5b3c312ab8547be0a9"
-    },
-    {
       "name": "dragon-ice-tail-1",
       "atlas": "art-0.json",
       "width": 39.5,
@@ -800,21 +785,6 @@
       "sourceSha256": "0fdb6fc9e4a01e628c9ea786ad41931dfd8136b9d13cf078271a5f66a4eb75b8"
     },
     {
-      "name": "dragon-ice-wing-2",
-      "atlas": "art-0.json",
-      "width": 34,
-      "height": 57,
-      "pivot": {
-        "x": 31.84057553956834,
-        "y": 11.571690647482013
-      },
-      "offset": {
-        "x": -3.78,
-        "y": -2.92
-      },
-      "sourceSha256": "ec5137a9c054d4f8c8f3d64ce2e0ea02a0f60cfaeb46d468139bbab55b4fd23f"
-    },
-    {
       "name": "dragon-ice-ribs-2",
       "atlas": "art-0.json",
       "width": 26.5,
@@ -828,21 +798,6 @@
         "y": -2.92
       },
       "sourceSha256": "6c22cf18c28473a2c341f7859d58052668f439f192ab09003818ae10e50051b9"
-    },
-    {
-      "name": "dragon-ice-tail-2",
-      "atlas": "art-0.json",
-      "width": 64.5,
-      "height": 60,
-      "pivot": {
-        "x": 33.38838129496403,
-        "y": 46.63071942446043
-      },
-      "offset": {
-        "x": 0.96,
-        "y": 15.67
-      },
-      "sourceSha256": "c535faf648462ba05f716a54a9b83106ac9932a5266a1ed0d339e5163243698a"
     },
     {
       "name": "dragon-ice-ribs-3",
@@ -948,6 +903,21 @@
         "y": -4.74
       },
       "sourceSha256": "b9d98890a7cf2dc716ff10b7221c4b94ea34d16211f2233a8a3f97cc095ca035"
+    },
+    {
+      "name": "dragon-ice-s2-tail-1",
+      "atlas": "art-0.json",
+      "width": 66,
+      "height": 81,
+      "pivot": {
+        "x": 31.078956834532374,
+        "y": 32.40564748201439
+      },
+      "offset": {
+        "x": 0.86,
+        "y": 4.15
+      },
+      "sourceSha256": "70707e43f0091731871abf3a44e478c96f659802aa6549b727a93e525f13aeb5"
     },
     {
       "name": "dragon-ice-s2-wing-2",
@@ -1070,6 +1040,21 @@
       "sourceSha256": "3f630eafea3cac674ccb337cce605ceacc4f73e600f4c608465fd6e342910bfa"
     },
     {
+      "name": "dragon-ice-s3-tail-1",
+      "atlas": "art-0.json",
+      "width": 52.5,
+      "height": 60,
+      "pivot": {
+        "x": 18.917625899280576,
+        "y": 14.151366906474815
+      },
+      "offset": {
+        "x": 0.98,
+        "y": -10.91
+      },
+      "sourceSha256": "b913789a25c759b0c51ca255662a3edfb3fb61c722f23a36722a5524b78a9b4e"
+    },
+    {
       "name": "dragon-ice-s3-ribs-2",
       "atlas": "art-0.json",
       "width": 26,
@@ -1083,21 +1068,6 @@
         "y": -4.08
       },
       "sourceSha256": "583165ab784afda4d8b152dba3d7d74e1ffd5b12c8e583e58e0ac9daf8117c8f"
-    },
-    {
-      "name": "dragon-ice-s3-wing-3",
-      "atlas": "art-0.json",
-      "width": 34,
-      "height": 57.5,
-      "pivot": {
-        "x": 32.18453237410072,
-        "y": 10.760935251798564
-      },
-      "offset": {
-        "x": -2.7,
-        "y": -3.98
-      },
-      "sourceSha256": "b0197a4efdea7f7f610333e815a7c883cb79961da04caef5aa69ecba0bf061c4"
     },
     {
       "name": "dragon-ice-s3-ribs-3",
@@ -1115,21 +1085,6 @@
       "sourceSha256": "fb1de6411aa1dcec57fdd610e26b321c8fb6ae3739426711a1a71b73a5295ae8"
     },
     {
-      "name": "dragon-ice-s3-wing-4",
-      "atlas": "art-0.json",
-      "width": 32.5,
-      "height": 74,
-      "pivot": {
-        "x": 29.801402877697843,
-        "y": 26.95147482014388
-      },
-      "offset": {
-        "x": -2.87,
-        "y": -4
-      },
-      "sourceSha256": "4f43e30f1f99be2928a3e75762507254eab7e82a766f5cc1ff5dd245cfbd02d5"
-    },
-    {
       "name": "dragon-ice-s3-ribs-4",
       "atlas": "art-0.json",
       "width": 25.5,
@@ -1143,21 +1098,6 @@
         "y": -4
       },
       "sourceSha256": "c0410f6712d0a232571ac102aea4a507a1a4d7de4fa242ab136369e383167a65"
-    },
-    {
-      "name": "dragon-ice-s3-wing-5",
-      "atlas": "art-0.json",
-      "width": 38,
-      "height": 85,
-      "pivot": {
-        "x": 35.96805755395683,
-        "y": 33.85517985611511
-      },
-      "offset": {
-        "x": -3.34,
-        "y": -4.47
-      },
-      "sourceSha256": "88086008e213dd0d76417e79161fe2879a10a676237e5adffeea83d434c7eeb2"
     },
     {
       "name": "dragon-ice-s3-ribs-5",
@@ -1186,6 +1126,21 @@
       "sourceSvgSha256": "0c5ba1d8723f733ad1d3cb322ea5ff13ade346c4a5e8310e486d516c4d790546"
     },
     {
+      "name": "dragon-lightning-body-1",
+      "atlas": "art-0.json",
+      "width": 36,
+      "height": 48,
+      "pivot": {
+        "x": 17.82830882352941,
+        "y": 31.387867647058822
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "sourceSha256": "9d6f42eaee01232c21abc64bf497dc3400f1c22432f77a455f6ef9c8ae43b7bf"
+    },
+    {
       "name": "dragon-lightning-tail-1",
       "atlas": "art-0.json",
       "width": 11.5,
@@ -1199,6 +1154,21 @@
         "y": 15.22
       },
       "sourceSha256": "abda2911e068a961cd945eac59694dc4edb3f079a54feec39d481da5538c9f94"
+    },
+    {
+      "name": "dragon-lightning-body-2",
+      "atlas": "art-0.json",
+      "width": 36,
+      "height": 48,
+      "pivot": {
+        "x": 18.07941176470588,
+        "y": 31.387867647058822
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "sourceSha256": "6562a03105f63a50d252625bf953370d4f76b4bdb6a960275c8c7a5634080abb"
     },
     {
       "name": "dragon-lightning-ribs-2",
@@ -1306,6 +1276,36 @@
       "sourceSha256": "cb98dc0a2282f506fe39f9faf40ac4e3b30eded67c5b47e031f0b711d7df63fe"
     },
     {
+      "name": "dragon-lightning-s2-body-1",
+      "atlas": "art-0.json",
+      "width": 38.5,
+      "height": 44,
+      "pivot": {
+        "x": 19.334926470588236,
+        "y": 32.643382352941174
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "sourceSha256": "7fdbd2a4e85681a9dbcdce38118299ea6b5d37027d07ab08b58fec559b99cf19"
+    },
+    {
+      "name": "dragon-lightning-s2-wing-1",
+      "atlas": "art-0.json",
+      "width": 31.5,
+      "height": 20,
+      "pivot": {
+        "x": 30.408566176470586,
+        "y": 10.270110294117648
+      },
+      "offset": {
+        "x": -2.49,
+        "y": -4.8
+      },
+      "sourceSha256": "e8cad0fd1f8a78dd9a323a42fc3ee28a0c360af3de281d85a7e5be00383030ff"
+    },
+    {
       "name": "dragon-lightning-s2-tail-1",
       "atlas": "art-0.json",
       "width": 15,
@@ -1319,6 +1319,21 @@
         "y": 3.49
       },
       "sourceSha256": "f03256909f340af6b217ecfc02b68f40964991584c98063b3e51ec15406276a7"
+    },
+    {
+      "name": "dragon-lightning-s2-wing-2",
+      "atlas": "art-0.json",
+      "width": 31.5,
+      "height": 20.5,
+      "pivot": {
+        "x": 30.33323529411765,
+        "y": 10.169669117647059
+      },
+      "offset": {
+        "x": -2.56,
+        "y": -5.15
+      },
+      "sourceSha256": "f568ab4409e8af78c2dacb3a2ac5c20b45d1163beb929de4f48f15e6d9f5da12"
     },
     {
       "name": "dragon-lightning-s2-ribs-2",
@@ -1351,6 +1366,21 @@
       "sourceSha256": "04b9d95f124cc537c060398a772787d6531682f3ae3cb6f42d48bbae1f2371ef"
     },
     {
+      "name": "dragon-lightning-s2-wing-3",
+      "atlas": "art-0.json",
+      "width": 30.5,
+      "height": 20.5,
+      "pivot": {
+        "x": 29.479485294117648,
+        "y": 10.345441176470585
+      },
+      "offset": {
+        "x": -3.42,
+        "y": -4.97
+      },
+      "sourceSha256": "75867afa68b1891a6400289ea46e0ca9e65b0b173bc9d5c1ac275675241bac86"
+    },
+    {
       "name": "dragon-lightning-s2-ribs-3",
       "atlas": "art-0.json",
       "width": 22.5,
@@ -1379,6 +1409,21 @@
         "y": 3.49
       },
       "sourceSha256": "c1edff5e9db30235f221a3df6d9cfa5ad421eb0a4f3bc3e9e5ce1ee5d4cdc73e"
+    },
+    {
+      "name": "dragon-lightning-s2-wing-4",
+      "atlas": "art-0.json",
+      "width": 31,
+      "height": 20.5,
+      "pivot": {
+        "x": 30.08213235294118,
+        "y": 10.295220588235294
+      },
+      "offset": {
+        "x": -3.06,
+        "y": -5.02
+      },
+      "sourceSha256": "5bebc8f09592ca013f421acc580509c246e4849aa78d6c6c4876ee73527c40e1"
     },
     {
       "name": "dragon-lightning-s2-ribs-4",
@@ -1411,6 +1456,21 @@
       "sourceSha256": "eaa2c3d316297a51d8112ded4d7616075e0ca94a3778d94202da5074935665bc"
     },
     {
+      "name": "dragon-lightning-s2-wing-5",
+      "atlas": "art-0.json",
+      "width": 32,
+      "height": 21,
+      "pivot": {
+        "x": 30.760110294117645,
+        "y": 10.696985294117646
+      },
+      "offset": {
+        "x": -4.39,
+        "y": -4.87
+      },
+      "sourceSha256": "748e10fee98b314075497995c933a44902d7e17df4244586d49858ab2eea4610"
+    },
+    {
       "name": "dragon-lightning-s2-ribs-5",
       "atlas": "art-0.json",
       "width": 25,
@@ -1426,49 +1486,19 @@
       "sourceSha256": "fb2a7b6d7e83453decadf3dc68d51a6fb02a9ee7580278044e02776134c84edd"
     },
     {
-      "name": "dragon-lightning-s3-wing-1",
+      "name": "dragon-lightning-s2-tail-5",
       "atlas": "art-0.json",
-      "width": 33.5,
-      "height": 22,
+      "width": 43,
+      "height": 38.5,
       "pivot": {
-        "x": 32.36716911764706,
-        "y": 10.345441176470585
+        "x": 20.23889705882353,
+        "y": 0.9793014705882367
       },
       "offset": {
-        "x": -2.03,
-        "y": -3.72
+        "x": 0.4,
+        "y": 3.49
       },
-      "sourceSha256": "02a570efe2f18c828b60ce4dc5985065b2d91886b51d6e46a1e7a2e5d6d98ca8"
-    },
-    {
-      "name": "dragon-lightning-s3-tail-1",
-      "atlas": "art-0.json",
-      "width": 20,
-      "height": 49.5,
-      "pivot": {
-        "x": 10.069227941176477,
-        "y": 1.1299632352941176
-      },
-      "offset": {
-        "x": 0.53,
-        "y": -11.43
-      },
-      "sourceSha256": "6336b3b19fb15105ed366937a665b1a306c55c6f44b8bf3f94f929270ca671bb"
-    },
-    {
-      "name": "dragon-lightning-s3-wing-2",
-      "atlas": "art-0.json",
-      "width": 33,
-      "height": 21.5,
-      "pivot": {
-        "x": 31.638970588235292,
-        "y": 10.194779411764705
-      },
-      "offset": {
-        "x": -2.26,
-        "y": -3.62
-      },
-      "sourceSha256": "10785704d00d1ceacd0eccd24481a7d676bb34c67ecd7f900d81b9dac341bb65"
+      "sourceSha256": "8836e7cd1d805a04f7e924a747422e858461f43d67bffbf86fc20b3dce34a08f"
     },
     {
       "name": "dragon-lightning-s3-ribs-2",
@@ -1486,21 +1516,6 @@
       "sourceSha256": "60e6cdd6d928abbf9ef298d098ac4e82625fb18b25ad1747da684373b03a887a"
     },
     {
-      "name": "dragon-lightning-s3-tail-2",
-      "atlas": "art-0.json",
-      "width": 20,
-      "height": 49.5,
-      "pivot": {
-        "x": 9.818125000000006,
-        "y": 1.1048529411764756
-      },
-      "offset": {
-        "x": 0.53,
-        "y": -11.45
-      },
-      "sourceSha256": "04a9a1080d0ca89245c5b5bce7588381b4147a99c714c3d9d1565b27cc2ac73a"
-    },
-    {
       "name": "dragon-lightning-s3-ribs-3",
       "atlas": "art-0.json",
       "width": 24.5,
@@ -1516,34 +1531,34 @@
       "sourceSha256": "317186f9fdc2f6e990ad1a8809f49e0f6a47a03306d953efeb140882f545349f"
     },
     {
-      "name": "dragon-lightning-s3-tail-3",
-      "atlas": "art-0.json",
-      "width": 23,
-      "height": 56,
-      "pivot": {
-        "x": 11.826948529411771,
-        "y": 1.1048529411764756
-      },
-      "offset": {
-        "x": 0.53,
-        "y": -11.45
-      },
-      "sourceSha256": "73fd17e4246d52ded56f28066e3df42fd40acd30da5ed449cf8c15fd7bec53a5"
-    },
-    {
-      "name": "dragon-lightning-s3-tail-4",
+      "name": "dragon-lightning-s3-ribs-4",
       "atlas": "art-0.json",
       "width": 25,
-      "height": 58,
+      "height": 16,
       "pivot": {
-        "x": 13.584669117647064,
-        "y": 1.1048529411764756
+        "x": 28.374632352941177,
+        "y": 6.779779411764705
       },
       "offset": {
-        "x": 0.53,
-        "y": -11.45
+        "x": -3.01,
+        "y": -3.52
       },
-      "sourceSha256": "e810b3d561e2d67d833942eff6ce52353e8b4c5fc0dcd3ea5347ab19cf9be340"
+      "sourceSha256": "6c7605b4ca76b1b56407707b2b167e6d4515d35ac9bdd0a9293dbd6a2a456612"
+    },
+    {
+      "name": "dragon-lightning-s3-ribs-5",
+      "atlas": "art-0.json",
+      "width": 26,
+      "height": 17,
+      "pivot": {
+        "x": 29.37904411764706,
+        "y": 7.00577205882353
+      },
+      "offset": {
+        "x": -4.02,
+        "y": -3.29
+      },
+      "sourceSha256": "61e5836e422e8ee3ef4af126f334971c4c706e59c111539de955bd09ff5e7cca"
     },
     {
       "name": "dragon-lightning-spark",
@@ -1629,46 +1644,35 @@
     {
       "name": "dragon-bullet-fire",
       "atlas": "art-0.json",
-      "width": 15,
-      "height": 30,
+      "width": 19,
+      "height": 31.5,
       "pivot": {
-        "x": 7.5,
-        "y": 14
+        "x": 9.364864864864863,
+        "y": 17.533783783783782
       },
-      "sourceSvgSha256": "c61dcc0797d6d731d8bd058f54db60652a5c883d48fe51bd52281f6a56c7929d"
+      "sourceSha256": "0847ed295bf408b783f6e841132ff9e1d573b6002fa6ea7773f6d66d2d0a0e71"
     },
     {
       "name": "dragon-bullet-ice",
       "atlas": "art-0.json",
-      "width": 15,
-      "height": 30,
+      "width": 19,
+      "height": 33,
       "pivot": {
-        "x": 7.5,
-        "y": 14
+        "x": 9.415254237288135,
+        "y": 17.533898305084747
       },
-      "sourceSvgSha256": "dda71ff8818c233016072b67ff9af005b62f3cc889636189db17ee040f1e4897"
+      "sourceSha256": "d12f10169e91dfcceca304c102963f0153ea93bf763460c08262dbb0ba52c76d"
     },
     {
       "name": "dragon-bullet-lightning",
       "atlas": "art-0.json",
-      "width": 20,
-      "height": 32,
+      "width": 18,
+      "height": 34,
       "pivot": {
-        "x": 10,
-        "y": 16.5
+        "x": 8.950354609929079,
+        "y": 17
       },
-      "sourceSvgSha256": "db53e87f058973b8a960abb988e339eef81ad09ce34c97cfee15c3344d5c11d3"
-    },
-    {
-      "name": "ice-shard",
-      "atlas": "art-0.json",
-      "width": 19,
-      "height": 39,
-      "pivot": {
-        "x": 9.5,
-        "y": 18
-      },
-      "sourceSvgSha256": "b3d64ae35f3382d8003a31acaf9d8a27e853350883269890563ce0ea2fbf7e1c"
+      "sourceSha256": "553f65b472b1b24d90ea1ddb57ab4d63b1954197fdc3cef84f13c0725324f45c"
     },
     {
       "name": "ice-chip",
@@ -1704,17 +1708,6 @@
       "sourceSvgSha256": "1c96aa62e2bf7c10940fa24101bfcba99d2c8ebb8d47ae50250775c92ce17315"
     },
     {
-      "name": "fx-impact",
-      "atlas": "art-0.json",
-      "width": 14,
-      "height": 14,
-      "pivot": {
-        "x": 7,
-        "y": 7
-      },
-      "sourceSvgSha256": "9bbfc99d7773e10fe4fb8117df7258cedc3aafb754bf09fd6e81dabf2a2d055c"
-    },
-    {
       "name": "fx-ember",
       "atlas": "art-0.json",
       "width": 6,
@@ -1724,17 +1717,6 @@
         "y": 4
       },
       "sourceSvgSha256": "426d988edda38d6fe38d99d15c51dfe0358aa6501bcb06d9b2a0b6362329e33d"
-    },
-    {
-      "name": "fx-flame",
-      "atlas": "art-0.json",
-      "width": 20,
-      "height": 19,
-      "pivot": {
-        "x": 10,
-        "y": 15
-      },
-      "sourceSvgSha256": "b3f220c633bc3c9b8d9c4a768a849cf61311d17cc9d77d56bcf310a9f20f1e52"
     },
     {
       "name": "fx-puff",
@@ -1757,28 +1739,6 @@
         "y": 4
       },
       "sourceSvgSha256": "6a8b545cb093cc6e7a744abc8b94dcd80235f4bf016932626696ab4d285cb76e"
-    },
-    {
-      "name": "enemy-bullet-purple",
-      "atlas": "art-0.json",
-      "width": 22.5,
-      "height": 42,
-      "pivot": {
-        "x": 11.1720741599073,
-        "y": 18.3
-      },
-      "sourceSha256": "437ffa9e07e8100fa50836b5bbbc3c4e4f51ebe752d099f1fcf462b6a7618631"
-    },
-    {
-      "name": "gem",
-      "atlas": "art-0.json",
-      "width": 22,
-      "height": 22,
-      "pivot": {
-        "x": 11,
-        "y": 11
-      },
-      "sourceSvgSha256": "872c556c51ab3c0ad32a967a821a518ebdfdb777bf95ce39ce602cd9927fc4b5"
     },
     {
       "name": "isle-a",
@@ -1823,6 +1783,51 @@
         "y": 20.885167464114833
       },
       "sourceSha256": "53563008533b7d4085bd74a094066be3e900b39b4b0ec2e9b45b43dde0db4f82"
+    },
+    {
+      "name": "dragon-ice-wing-1",
+      "atlas": "art-1.json",
+      "width": 35.5,
+      "height": 56.5,
+      "pivot": {
+        "x": 32.209100719424455,
+        "y": 11.129460431654678
+      },
+      "offset": {
+        "x": -3.42,
+        "y": -2.87
+      },
+      "sourceSha256": "019e7e295951b2decbfc8059efd6bb0a8ee4f79c41e31d5b3c312ab8547be0a9"
+    },
+    {
+      "name": "dragon-ice-wing-2",
+      "atlas": "art-1.json",
+      "width": 34,
+      "height": 57,
+      "pivot": {
+        "x": 31.84057553956834,
+        "y": 11.571690647482013
+      },
+      "offset": {
+        "x": -3.78,
+        "y": -2.92
+      },
+      "sourceSha256": "ec5137a9c054d4f8c8f3d64ce2e0ea02a0f60cfaeb46d468139bbab55b4fd23f"
+    },
+    {
+      "name": "dragon-ice-tail-2",
+      "atlas": "art-1.json",
+      "width": 64.5,
+      "height": 60,
+      "pivot": {
+        "x": 33.38838129496403,
+        "y": 46.63071942446043
+      },
+      "offset": {
+        "x": 0.96,
+        "y": 15.67
+      },
+      "sourceSha256": "c535faf648462ba05f716a54a9b83106ac9932a5266a1ed0d339e5163243698a"
     },
     {
       "name": "dragon-ice-wing-3",
@@ -1883,21 +1888,6 @@
         "y": 15.67
       },
       "sourceSha256": "58cc625685b02d8752e1315c3164aa3d7d78ea51929cd77baf646ec84db9146b"
-    },
-    {
-      "name": "dragon-ice-s2-tail-1",
-      "atlas": "art-1.json",
-      "width": 66,
-      "height": 81,
-      "pivot": {
-        "x": 31.078956834532374,
-        "y": 32.40564748201439
-      },
-      "offset": {
-        "x": 0.86,
-        "y": 4.15
-      },
-      "sourceSha256": "70707e43f0091731871abf3a44e478c96f659802aa6549b727a93e525f13aeb5"
     },
     {
       "name": "dragon-ice-s2-tail-2",
@@ -1990,21 +1980,6 @@
       "sourceSha256": "e8965a6a0f8a0bfc55f6202a6978690c3b5ec9e3d2ebd0139a136e0f0ad1c9ae"
     },
     {
-      "name": "dragon-ice-s3-tail-1",
-      "atlas": "art-1.json",
-      "width": 52.5,
-      "height": 60,
-      "pivot": {
-        "x": 18.917625899280576,
-        "y": 14.151366906474815
-      },
-      "offset": {
-        "x": 0.98,
-        "y": -10.91
-      },
-      "sourceSha256": "b913789a25c759b0c51ca255662a3edfb3fb61c722f23a36722a5524b78a9b4e"
-    },
-    {
       "name": "dragon-ice-s3-wing-2",
       "atlas": "art-1.json",
       "width": 35,
@@ -2035,6 +2010,21 @@
       "sourceSha256": "4d1c06cc7d2cb08fa462283b5c07e58eb40fc850ade567813f99ea1c79772bd6"
     },
     {
+      "name": "dragon-ice-s3-wing-3",
+      "atlas": "art-1.json",
+      "width": 34,
+      "height": 57.5,
+      "pivot": {
+        "x": 32.18453237410072,
+        "y": 10.760935251798564
+      },
+      "offset": {
+        "x": -2.7,
+        "y": -3.98
+      },
+      "sourceSha256": "b0197a4efdea7f7f610333e815a7c883cb79961da04caef5aa69ecba0bf061c4"
+    },
+    {
       "name": "dragon-ice-s3-tail-3",
       "atlas": "art-1.json",
       "width": 65,
@@ -2048,6 +2038,21 @@
         "y": -10.91
       },
       "sourceSha256": "7f02a054757039b7954649ae1778333d7b6a74f7dc514b8d95e555ad799155db"
+    },
+    {
+      "name": "dragon-ice-s3-wing-4",
+      "atlas": "art-1.json",
+      "width": 32.5,
+      "height": 74,
+      "pivot": {
+        "x": 29.801402877697843,
+        "y": 26.95147482014388
+      },
+      "offset": {
+        "x": -2.87,
+        "y": -4
+      },
+      "sourceSha256": "4f43e30f1f99be2928a3e75762507254eab7e82a766f5cc1ff5dd245cfbd02d5"
     },
     {
       "name": "dragon-ice-s3-tail-4",
@@ -2065,6 +2070,21 @@
       "sourceSha256": "e0802015f96e273c9ee4284e0669dbc0ad301f570f0bc70e9770d16c7e74062e"
     },
     {
+      "name": "dragon-ice-s3-wing-5",
+      "atlas": "art-1.json",
+      "width": 38,
+      "height": 85,
+      "pivot": {
+        "x": 35.96805755395683,
+        "y": 33.85517985611511
+      },
+      "offset": {
+        "x": -3.34,
+        "y": -4.47
+      },
+      "sourceSha256": "88086008e213dd0d76417e79161fe2879a10a676237e5adffeea83d434c7eeb2"
+    },
+    {
       "name": "dragon-ice-s3-tail-5",
       "atlas": "art-1.json",
       "width": 68,
@@ -2080,21 +2100,6 @@
       "sourceSha256": "7c2033d648c5f0d516ae7594b207b775e5364a6a82b713975f7b3147026df7f9"
     },
     {
-      "name": "dragon-lightning-body-1",
-      "atlas": "art-1.json",
-      "width": 36,
-      "height": 48,
-      "pivot": {
-        "x": 17.82830882352941,
-        "y": 31.387867647058822
-      },
-      "offset": {
-        "x": 0,
-        "y": 0
-      },
-      "sourceSha256": "9d6f42eaee01232c21abc64bf497dc3400f1c22432f77a455f6ef9c8ae43b7bf"
-    },
-    {
       "name": "dragon-lightning-wing-1",
       "atlas": "art-1.json",
       "width": 33,
@@ -2108,21 +2113,6 @@
         "y": -1.33
       },
       "sourceSha256": "5d27b3a01213d0b2a4e88940ecfed6dee413120b1860c33ea6e735eb84054747"
-    },
-    {
-      "name": "dragon-lightning-body-2",
-      "atlas": "art-1.json",
-      "width": 36,
-      "height": 48,
-      "pivot": {
-        "x": 18.07941176470588,
-        "y": 31.387867647058822
-      },
-      "offset": {
-        "x": 0,
-        "y": 0
-      },
-      "sourceSha256": "6562a03105f63a50d252625bf953370d4f76b4bdb6a960275c8c7a5634080abb"
     },
     {
       "name": "dragon-lightning-wing-2",
@@ -2245,36 +2235,6 @@
       "sourceSha256": "43dbe39f70cffd03c04b724625d79a7bb2884452a547a1dff70905a14ad19104"
     },
     {
-      "name": "dragon-lightning-s2-body-1",
-      "atlas": "art-1.json",
-      "width": 38.5,
-      "height": 44,
-      "pivot": {
-        "x": 19.334926470588236,
-        "y": 32.643382352941174
-      },
-      "offset": {
-        "x": 0,
-        "y": 0
-      },
-      "sourceSha256": "7fdbd2a4e85681a9dbcdce38118299ea6b5d37027d07ab08b58fec559b99cf19"
-    },
-    {
-      "name": "dragon-lightning-s2-wing-1",
-      "atlas": "art-1.json",
-      "width": 31.5,
-      "height": 20,
-      "pivot": {
-        "x": 30.408566176470586,
-        "y": 10.270110294117648
-      },
-      "offset": {
-        "x": -2.49,
-        "y": -4.8
-      },
-      "sourceSha256": "e8cad0fd1f8a78dd9a323a42fc3ee28a0c360af3de281d85a7e5be00383030ff"
-    },
-    {
       "name": "dragon-lightning-s2-body-2",
       "atlas": "art-1.json",
       "width": 38.5,
@@ -2288,21 +2248,6 @@
         "y": 0
       },
       "sourceSha256": "26d2fb8d3e20f4a9f39484ccce61fbaa560914603ef59687ed90b29a39632d91"
-    },
-    {
-      "name": "dragon-lightning-s2-wing-2",
-      "atlas": "art-1.json",
-      "width": 31.5,
-      "height": 20.5,
-      "pivot": {
-        "x": 30.33323529411765,
-        "y": 10.169669117647059
-      },
-      "offset": {
-        "x": -2.56,
-        "y": -5.15
-      },
-      "sourceSha256": "f568ab4409e8af78c2dacb3a2ac5c20b45d1163beb929de4f48f15e6d9f5da12"
     },
     {
       "name": "dragon-lightning-s2-body-3",
@@ -2320,21 +2265,6 @@
       "sourceSha256": "ace44b8a9accce8891a032e98ee726f9f6c31b46ac83fc40330b7437f79f8b50"
     },
     {
-      "name": "dragon-lightning-s2-wing-3",
-      "atlas": "art-1.json",
-      "width": 30.5,
-      "height": 20.5,
-      "pivot": {
-        "x": 29.479485294117648,
-        "y": 10.345441176470585
-      },
-      "offset": {
-        "x": -3.42,
-        "y": -4.97
-      },
-      "sourceSha256": "75867afa68b1891a6400289ea46e0ca9e65b0b173bc9d5c1ac275675241bac86"
-    },
-    {
       "name": "dragon-lightning-s2-body-4",
       "atlas": "art-1.json",
       "width": 38.5,
@@ -2348,21 +2278,6 @@
         "y": 0
       },
       "sourceSha256": "fc89bbf0dc10b44014d99ec8f347ca9db9f91ba8ba81c34205e74f04a014edad"
-    },
-    {
-      "name": "dragon-lightning-s2-wing-4",
-      "atlas": "art-1.json",
-      "width": 31,
-      "height": 20.5,
-      "pivot": {
-        "x": 30.08213235294118,
-        "y": 10.295220588235294
-      },
-      "offset": {
-        "x": -3.06,
-        "y": -5.02
-      },
-      "sourceSha256": "5bebc8f09592ca013f421acc580509c246e4849aa78d6c6c4876ee73527c40e1"
     },
     {
       "name": "dragon-lightning-s2-body-5",
@@ -2380,36 +2295,6 @@
       "sourceSha256": "4290d8c63f234eb5116eb3f4bfb30fc85ed74bfa70f6df581c27a6a835a7ba78"
     },
     {
-      "name": "dragon-lightning-s2-wing-5",
-      "atlas": "art-1.json",
-      "width": 32,
-      "height": 21,
-      "pivot": {
-        "x": 30.760110294117645,
-        "y": 10.696985294117646
-      },
-      "offset": {
-        "x": -4.39,
-        "y": -4.87
-      },
-      "sourceSha256": "748e10fee98b314075497995c933a44902d7e17df4244586d49858ab2eea4610"
-    },
-    {
-      "name": "dragon-lightning-s2-tail-5",
-      "atlas": "art-1.json",
-      "width": 43,
-      "height": 38.5,
-      "pivot": {
-        "x": 20.23889705882353,
-        "y": 0.9793014705882367
-      },
-      "offset": {
-        "x": 0.4,
-        "y": 3.49
-      },
-      "sourceSha256": "8836e7cd1d805a04f7e924a747422e858461f43d67bffbf86fc20b3dce34a08f"
-    },
-    {
       "name": "dragon-lightning-s3-body-1",
       "atlas": "art-1.json",
       "width": 38,
@@ -2425,6 +2310,36 @@
       "sourceSha256": "0780ae98f87e411eb84ed075be10e358b496f74a14741f22152028af4a7112bf"
     },
     {
+      "name": "dragon-lightning-s3-wing-1",
+      "atlas": "art-1.json",
+      "width": 33.5,
+      "height": 22,
+      "pivot": {
+        "x": 32.36716911764706,
+        "y": 10.345441176470585
+      },
+      "offset": {
+        "x": -2.03,
+        "y": -3.72
+      },
+      "sourceSha256": "02a570efe2f18c828b60ce4dc5985065b2d91886b51d6e46a1e7a2e5d6d98ca8"
+    },
+    {
+      "name": "dragon-lightning-s3-tail-1",
+      "atlas": "art-1.json",
+      "width": 20,
+      "height": 49.5,
+      "pivot": {
+        "x": 10.069227941176477,
+        "y": 1.1299632352941176
+      },
+      "offset": {
+        "x": 0.53,
+        "y": -11.43
+      },
+      "sourceSha256": "6336b3b19fb15105ed366937a665b1a306c55c6f44b8bf3f94f929270ca671bb"
+    },
+    {
       "name": "dragon-lightning-s3-body-2",
       "atlas": "art-1.json",
       "width": 38,
@@ -2438,6 +2353,36 @@
         "y": 0
       },
       "sourceSha256": "c6aec04064f2999d2072a80c2b1f8803aade5456282c4f9d8f10ed4926787239"
+    },
+    {
+      "name": "dragon-lightning-s3-wing-2",
+      "atlas": "art-1.json",
+      "width": 33,
+      "height": 21.5,
+      "pivot": {
+        "x": 31.638970588235292,
+        "y": 10.194779411764705
+      },
+      "offset": {
+        "x": -2.26,
+        "y": -3.62
+      },
+      "sourceSha256": "10785704d00d1ceacd0eccd24481a7d676bb34c67ecd7f900d81b9dac341bb65"
+    },
+    {
+      "name": "dragon-lightning-s3-tail-2",
+      "atlas": "art-1.json",
+      "width": 20,
+      "height": 49.5,
+      "pivot": {
+        "x": 9.818125000000006,
+        "y": 1.1048529411764756
+      },
+      "offset": {
+        "x": 0.53,
+        "y": -11.45
+      },
+      "sourceSha256": "04a9a1080d0ca89245c5b5bce7588381b4147a99c714c3d9d1565b27cc2ac73a"
     },
     {
       "name": "dragon-lightning-s3-body-3",
@@ -2470,6 +2415,21 @@
       "sourceSha256": "828a139b49a8055964342d7959387e3da45a6b60ef8c33fd95969d5a179d1b3c"
     },
     {
+      "name": "dragon-lightning-s3-tail-3",
+      "atlas": "art-1.json",
+      "width": 23,
+      "height": 56,
+      "pivot": {
+        "x": 11.826948529411771,
+        "y": 1.1048529411764756
+      },
+      "offset": {
+        "x": 0.53,
+        "y": -11.45
+      },
+      "sourceSha256": "73fd17e4246d52ded56f28066e3df42fd40acd30da5ed449cf8c15fd7bec53a5"
+    },
+    {
       "name": "dragon-lightning-s3-body-4",
       "atlas": "art-1.json",
       "width": 39,
@@ -2500,19 +2460,19 @@
       "sourceSha256": "9080079b502f3eed0efd053a4a3e3f507a8273c6722d12133d3bd45c457e3298"
     },
     {
-      "name": "dragon-lightning-s3-ribs-4",
+      "name": "dragon-lightning-s3-tail-4",
       "atlas": "art-1.json",
       "width": 25,
-      "height": 16,
+      "height": 58,
       "pivot": {
-        "x": 28.374632352941177,
-        "y": 6.779779411764705
+        "x": 13.584669117647064,
+        "y": 1.1048529411764756
       },
       "offset": {
-        "x": -3.01,
-        "y": -3.52
+        "x": 0.53,
+        "y": -11.45
       },
-      "sourceSha256": "6c7605b4ca76b1b56407707b2b167e6d4515d35ac9bdd0a9293dbd6a2a456612"
+      "sourceSha256": "e810b3d561e2d67d833942eff6ce52353e8b4c5fc0dcd3ea5347ab19cf9be340"
     },
     {
       "name": "dragon-lightning-s3-body-5",
@@ -2543,21 +2503,6 @@
         "y": -3.29
       },
       "sourceSha256": "4e781a14b1f1553f711204162e695fc2795c61b10de3612a03c3e13c9f32dfdb"
-    },
-    {
-      "name": "dragon-lightning-s3-ribs-5",
-      "atlas": "art-1.json",
-      "width": 26,
-      "height": 17,
-      "pivot": {
-        "x": 29.37904411764706,
-        "y": 7.00577205882353
-      },
-      "offset": {
-        "x": -4.02,
-        "y": -3.29
-      },
-      "sourceSha256": "61e5836e422e8ee3ef4af126f334971c4c706e59c111539de955bd09ff5e7cca"
     },
     {
       "name": "dragon-lightning-s3-tail-5",
@@ -2685,6 +2630,17 @@
       "sourceSha256": "f0f29fd753596942c83cadbabbf9719576132486d6e50a41ee36d3b3718215c4"
     },
     {
+      "name": "ice-shard",
+      "atlas": "art-1.json",
+      "width": 22,
+      "height": 41,
+      "pivot": {
+        "x": 11.05367231638418,
+        "y": 21.87853107344633
+      },
+      "sourceSha256": "a8c82f5aa137381b70531fc6356ca7dc53c8f02b89ef0ace6d29c4023189198f"
+    },
+    {
       "name": "ice-block",
       "atlas": "art-1.json",
       "width": 48,
@@ -2718,6 +2674,28 @@
       "sourceSvgSha256": "3dd11ab70c35ab5b0138418dbf2d5412d5d782b4f85c486adb4208c42a1bd089"
     },
     {
+      "name": "fx-impact",
+      "atlas": "art-1.json",
+      "width": 14,
+      "height": 14,
+      "pivot": {
+        "x": 7,
+        "y": 7
+      },
+      "sourceSvgSha256": "9bbfc99d7773e10fe4fb8117df7258cedc3aafb754bf09fd6e81dabf2a2d055c"
+    },
+    {
+      "name": "fx-flame",
+      "atlas": "art-1.json",
+      "width": 20,
+      "height": 19,
+      "pivot": {
+        "x": 10,
+        "y": 15
+      },
+      "sourceSvgSha256": "b3f220c633bc3c9b8d9c4a768a849cf61311d17cc9d77d56bcf310a9f20f1e52"
+    },
+    {
       "name": "hint-hand",
       "atlas": "art-1.json",
       "width": 34,
@@ -2738,6 +2716,28 @@
         "y": 19
       },
       "sourceSvgSha256": "de9418ca316c4673c3ae8fb131754623783ec59beca819f65135f99fc64c7897"
+    },
+    {
+      "name": "enemy-bullet-purple",
+      "atlas": "art-1.json",
+      "width": 22.5,
+      "height": 42,
+      "pivot": {
+        "x": 11.1720741599073,
+        "y": 18.3
+      },
+      "sourceSha256": "437ffa9e07e8100fa50836b5bbbc3c4e4f51ebe752d099f1fcf462b6a7618631"
+    },
+    {
+      "name": "gem",
+      "atlas": "art-1.json",
+      "width": 22,
+      "height": 22,
+      "pivot": {
+        "x": 11,
+        "y": 11
+      },
+      "sourceSvgSha256": "872c556c51ab3c0ad32a967a821a518ebdfdb777bf95ce39ce602cd9927fc4b5"
     },
     {
       "name": "orb-fire",
@@ -3009,8 +3009,8 @@
     }
   ],
   "totals": {
-    "bytes": 1614745,
-    "decodedBytes": 8511016,
+    "bytes": 1622458,
+    "decodedBytes": 8437868,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

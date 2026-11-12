@@ -17,11 +17,21 @@
       "name": "art",
       "image": "art-1.png",
       "data": "art-1.json",
-      "width": 787,
-      "height": 852,
-      "bytes": 546218,
-      "decodedBytes": 2682096,
-      "sha256": "3174b828d641cf358e3a09de2f525a8ae49657458cc178201b4e0dad6869e3d6"
+      "width": 909,
+      "height": 927,
+      "bytes": 860500,
+      "decodedBytes": 3370572,
+      "sha256": "86f1c8d2c2433cd2f5a97a63c63c8af198d56182cf3effbc1927f16d7827e959"
+    },
+    {
+      "name": "art",
+      "image": "art-2.png",
+      "data": "art-2.json",
+      "width": 724,
+      "height": 132,
+      "bytes": 6957,
+      "decodedBytes": 382272,
+      "sha256": "047711ac0d21ac581ed5c2b785c3245f5dc5db46465ea92f39e3050416ed700a"
     }
   ],
   "assets": [
@@ -2209,6 +2219,61 @@
       "sourceSha256": "53563008533b7d4085bd74a094066be3e900b39b4b0ec2e9b45b43dde0db4f82"
     },
     {
+      "name": "map-won",
+      "atlas": "art-1.json",
+      "width": 96,
+      "height": 101.5,
+      "pivot": {
+        "x": 48,
+        "y": 45.59114391143912
+      },
+      "sourceSha256": "e3cf7f58d777ad15b55136dc539daae8f60daf17078efcaff1e7bd17875ceee8"
+    },
+    {
+      "name": "map-newest",
+      "atlas": "art-1.json",
+      "width": 96,
+      "height": 94.5,
+      "pivot": {
+        "x": 48,
+        "y": 42.525000000000006
+      },
+      "sourceSha256": "9534641c1e916f369d0c67aa97c684c7fc81e8769a3a5c4a63522b57058bc7a7"
+    },
+    {
+      "name": "map-locked",
+      "atlas": "art-1.json",
+      "width": 96,
+      "height": 96,
+      "pivot": {
+        "x": 48,
+        "y": 43.14185733512787
+      },
+      "sourceSha256": "38ade117208bc34289308a3f62a7d95e2567cc437bc2492360f912c035b735c0"
+    },
+    {
+      "name": "map-crown",
+      "atlas": "art-1.json",
+      "width": 60,
+      "height": 38.5,
+      "pivot": {
+        "x": 30,
+        "y": 38.58123569794051
+      },
+      "sourceSha256": "aec7ff61851f170017fde93dcf1b91d39067c0ece1f7abd1158b9991f2a2e31b"
+    },
+    {
+      "name": "map-gate",
+      "atlas": "art-1.json",
+      "width": 128,
+      "height": 100.5,
+      "pivot": {
+        "x": 64,
+        "y": 100.32800851970183
+      },
+      "sourceSha256": "13d1f56320970821b05dcae419a91ad120132b7432184a34b8845a42eb9d9556"
+    },
+    {
       "name": "dragon-ice-s3-body",
       "atlas": "art-1.json",
       "width": 53.5,
@@ -2675,17 +2740,6 @@
       "sourceSha256": "a8c82f5aa137381b70531fc6356ca7dc53c8f02b89ef0ace6d29c4023189198f"
     },
     {
-      "name": "storm-band",
-      "atlas": "art-1.json",
-      "width": 360,
-      "height": 64,
-      "pivot": {
-        "x": 180,
-        "y": 0
-      },
-      "sourceSvgSha256": "6a48f913e0ed712a15b979a32f85ba18db0c597b9cee4b2d2f8dfb92d8b71607"
-    },
-    {
       "name": "ice-block",
       "atlas": "art-1.json",
       "width": 48,
@@ -2860,6 +2914,17 @@
         "y": 17.5
       },
       "sourceSha256": "ddba8adc010fa821fd33d5654bd4414dfa4262d37068c72b286d3b5ce54ff68b"
+    },
+    {
+      "name": "storm-band",
+      "atlas": "art-2.json",
+      "width": 360,
+      "height": 64,
+      "pivot": {
+        "x": 180,
+        "y": 0
+      },
+      "sourceSvgSha256": "6a48f913e0ed712a15b979a32f85ba18db0c597b9cee4b2d2f8dfb92d8b71607"
     }
   ],
   "sounds": [
@@ -2999,8 +3064,8 @@
     }
   ],
   "totals": {
-    "bytes": 1597101,
-    "decodedBytes": 6839496,
+    "bytes": 1918340,
+    "decodedBytes": 7910244,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

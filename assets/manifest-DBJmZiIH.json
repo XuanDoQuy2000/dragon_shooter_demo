@@ -17,21 +17,21 @@
       "name": "art",
       "image": "art-1.png",
       "data": "art-1.json",
-      "width": 909,
-      "height": 927,
-      "bytes": 1019354,
-      "decodedBytes": 3370572,
-      "sha256": "fec50a36497257d9224cd84684571e35a77db4a168f396ba0ced7b8e5bbb5030"
+      "width": 1021,
+      "height": 1013,
+      "bytes": 1212192,
+      "decodedBytes": 4137092,
+      "sha256": "002ee5da7ac3731c952ac0fdf88f82750a595fcda6b6fd519a3584f2806f508e"
     },
     {
       "name": "art",
       "image": "art-2.png",
       "data": "art-2.json",
-      "width": 724,
-      "height": 615,
-      "bytes": 355809,
-      "decodedBytes": 1781040,
-      "sha256": "b4e22e77d286e0177914bbb6ef16d2851ffd9b1fa5cd4987cc78b0389e0832a8"
+      "width": 922,
+      "height": 749,
+      "bytes": 705501,
+      "decodedBytes": 2762312,
+      "sha256": "f0408eee609c13f4b536db3eef0740f824ea1dc254bf322ecf0542a05e90e5dd"
     }
   ],
   "assets": [
@@ -2351,17 +2351,6 @@
       "sourceSha256": "d064b141531882ab024703b2e974208e25bcf04c4009ea5f6f30e28369cd6604"
     },
     {
-      "name": "ui-ad",
-      "atlas": "art-1.json",
-      "width": 109.5,
-      "height": 55,
-      "pivot": {
-        "x": 55.00000000000001,
-        "y": 27.568238213399507
-      },
-      "sourceSha256": "de606889e673b9bed57187643fa78bcbe6ea20e5a09a86fd63bd00446ba73550"
-    },
-    {
       "name": "ui-dot",
       "atlas": "art-1.json",
       "width": 23.5,
@@ -2371,6 +2360,116 @@
         "y": 11.725190839694656
       },
       "sourceSha256": "38d1432501b48bb7306f78674df6727431134d0d5367cde0f2dacc70f60b5c72"
+    },
+    {
+      "name": "road-star",
+      "atlas": "art-1.json",
+      "width": 47.5,
+      "height": 46,
+      "pivot": {
+        "x": 24,
+        "y": 23.023255813953487
+      },
+      "sourceSha256": "bd2dba8121dec78a5b587da04c8a4d68e090d959549492dda248d90f9914402e"
+    },
+    {
+      "name": "road-star-empty",
+      "atlas": "art-1.json",
+      "width": 48,
+      "height": 46.5,
+      "pivot": {
+        "x": 24,
+        "y": 23.285714285714285
+      },
+      "sourceSha256": "d800df94fb09453244d8c41323a7ade74183544eb265334566353ca3058b1449"
+    },
+    {
+      "name": "road-fire",
+      "atlas": "art-1.json",
+      "width": 44,
+      "height": 44.5,
+      "pivot": {
+        "x": 22,
+        "y": 22.130177514792898
+      },
+      "sourceSha256": "d207b26d9bb024d56e92d2115cd474f43e332a48b8195c3079bc677252d624ac"
+    },
+    {
+      "name": "road-ice",
+      "atlas": "art-1.json",
+      "width": 44,
+      "height": 44,
+      "pivot": {
+        "x": 22,
+        "y": 21.869822485207102
+      },
+      "sourceSha256": "e2ec82db955f3ce894b48784ab20713cfda6a150269ab2bcabeeed5e3eaf51af"
+    },
+    {
+      "name": "road-lightning",
+      "atlas": "art-1.json",
+      "width": 44,
+      "height": 45,
+      "pivot": {
+        "x": 22,
+        "y": 22.390532544378697
+      },
+      "sourceSha256": "04a7e7b699a2d9c5be8785738e9fbfcf11c49ea17a882dc3e0b730799c919821"
+    },
+    {
+      "name": "road-close",
+      "atlas": "art-1.json",
+      "width": 48,
+      "height": 49,
+      "pivot": {
+        "x": 24,
+        "y": 24.588957055214724
+      },
+      "sourceSha256": "f192341a549bfa53daf55cb16f746c01bbc93a651ff155231f678be0e81b8510"
+    },
+    {
+      "name": "road-grow",
+      "atlas": "art-1.json",
+      "width": 60,
+      "height": 56.5,
+      "pivot": {
+        "x": 30,
+        "y": 28.357664233576642
+      },
+      "sourceSha256": "82372ecb92ccc14abc656551f4dc0fad96c116093762d1f433fda4673fa2f5c5"
+    },
+    {
+      "name": "road-skill",
+      "atlas": "art-1.json",
+      "width": 50,
+      "height": 55.5,
+      "pivot": {
+        "x": 25,
+        "y": 27.312775330396473
+      },
+      "sourceSha256": "237717654890a4fd4ea3f4065ea7c13f64fb0b35d7bbffaf3ae01bbc161450c8"
+    },
+    {
+      "name": "road-cloud",
+      "atlas": "art-1.json",
+      "width": 109.5,
+      "height": 53,
+      "pivot": {
+        "x": 55,
+        "y": 26.764705882352942
+      },
+      "sourceSha256": "7d86b5d8b42b2a047e23bc42f121bb7e60c216e536711561740d3e33cebffb86"
+    },
+    {
+      "name": "road-bubble",
+      "atlas": "art-1.json",
+      "width": 130,
+      "height": 53,
+      "pivot": {
+        "x": 65,
+        "y": 26.462035541195476
+      },
+      "sourceSha256": "cfa8d0f649543a9be7ef4222648d01d99f7bda10ace9e1f452084cfa5cc0b24b"
     },
     {
       "name": "dragon-ice-s3-body",
@@ -3026,6 +3125,17 @@
       "sourceSha256": "8b77743401ffb04c1e409c6d449e8a54e8a4a7b02e32a3b601f04591e9abf8b9"
     },
     {
+      "name": "ui-ad",
+      "atlas": "art-2.json",
+      "width": 109.5,
+      "height": 55,
+      "pivot": {
+        "x": 55.00000000000001,
+        "y": 27.568238213399507
+      },
+      "sourceSha256": "de606889e673b9bed57187643fa78bcbe6ea20e5a09a86fd63bd00446ba73550"
+    },
+    {
       "name": "ui-play",
       "atlas": "art-2.json",
       "width": 220,
@@ -3057,6 +3167,28 @@
         "y": 48.99310344827586
       },
       "sourceSha256": "a5f558c287d156d28907fc0246747d8a688774d74691eb1277dd02f15cda3531"
+    },
+    {
+      "name": "road-ribbon",
+      "atlas": "art-2.json",
+      "width": 159.5,
+      "height": 54.5,
+      "pivot": {
+        "x": 79.61904761904762,
+        "y": 27.238095238095237
+      },
+      "sourceSha256": "5269cc33ae0daf577c7ff9c4aadc7464e77f691bf9971c8ff1c17e9919af91aa"
+    },
+    {
+      "name": "road-panel",
+      "atlas": "art-2.json",
+      "width": 150,
+      "height": 220.5,
+      "pivot": {
+        "x": 75,
+        "y": 110.5691056910569
+      },
+      "sourceSha256": "35825a58fc54b0ff49a79a783d2b824a28bb56f1553292d45c9375f0f2e34db1"
     },
     {
       "name": "storm-band",
@@ -3207,8 +3339,8 @@
     }
   ],
   "totals": {
-    "bytes": 2426046,
-    "decodedBytes": 9309012,
+    "bytes": 2968576,
+    "decodedBytes": 11056804,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

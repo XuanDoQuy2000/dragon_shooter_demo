@@ -1224,10 +1224,250 @@
         "y": 0.5
       }
     },
-    "slow-enemy-balloon": {
+    "road-bubble": {
       "frame": {
         "x": 581,
-        "y": 602,
+        "y": 617,
+        "w": 260,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 260,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 260,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.4992836894565184
+      }
+    },
+    "road-close": {
+      "frame": {
+        "x": 455,
+        "y": 627,
+        "w": 96,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5018154501064229
+      }
+    },
+    "road-cloud": {
+      "frame": {
+        "x": 200,
+        "y": 703,
+        "w": 219,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 219,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.502283105022831,
+        "y": 0.5049944506104329
+      }
+    },
+    "road-fire": {
+      "frame": {
+        "x": 200,
+        "y": 815,
+        "w": 88,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 89
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.49730735988298647
+      }
+    },
+    "road-grow": {
+      "frame": {
+        "x": 425,
+        "y": 731,
+        "w": 120,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 113
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5019055616562238
+      }
+    },
+    "road-ice": {
+      "frame": {
+        "x": 294,
+        "y": 815,
+        "w": 88,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 88
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.49704142011834324
+      }
+    },
+    "road-lightning": {
+      "frame": {
+        "x": 551,
+        "y": 731,
+        "w": 88,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 90
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.49756738987508214
+      }
+    },
+    "road-skill": {
+      "frame": {
+        "x": 645,
+        "y": 729,
+        "w": 100,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 111
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.49212207802516167
+      }
+    },
+    "road-star": {
+      "frame": {
+        "x": 751,
+        "y": 729,
+        "w": 95,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 95,
+        "h": 92
+      },
+      "pivot": {
+        "x": 0.5052631578947369,
+        "y": 0.5005055611729019
+      }
+    },
+    "road-star-empty": {
+      "frame": {
+        "x": 751,
+        "y": 827,
+        "w": 96,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 93
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.500768049155146
+      }
+    },
+    "slow-enemy-balloon": {
+      "frame": {
+        "x": 388,
+        "y": 850,
         "w": 70,
         "h": 70
       },
@@ -1250,8 +1490,8 @@
     },
     "slow-enemy-carrier": {
       "frame": {
-        "x": 657,
-        "y": 617,
+        "x": 2,
+        "y": 931,
         "w": 146,
         "h": 80
       },
@@ -1274,8 +1514,8 @@
     },
     "slow-enemy-kamikaze": {
       "frame": {
-        "x": 455,
-        "y": 678,
+        "x": 464,
+        "y": 850,
         "w": 134,
         "h": 136
       },
@@ -1298,8 +1538,8 @@
     },
     "slow-enemy-parachute": {
       "frame": {
-        "x": 809,
-        "y": 617,
+        "x": 154,
+        "y": 931,
         "w": 62,
         "h": 62
       },
@@ -1322,8 +1562,8 @@
     },
     "slow-enemy-ritual": {
       "frame": {
-        "x": 200,
-        "y": 820,
+        "x": 294,
+        "y": 909,
         "w": 78,
         "h": 88
       },
@@ -1346,8 +1586,8 @@
     },
     "slow-enemy-shooter": {
       "frame": {
-        "x": 284,
-        "y": 820,
+        "x": 604,
+        "y": 926,
         "w": 106,
         "h": 82
       },
@@ -1370,8 +1610,8 @@
     },
     "slow-enemy-small": {
       "frame": {
-        "x": 396,
-        "y": 820,
+        "x": 913,
+        "y": 2,
         "w": 106,
         "h": 103
       },
@@ -1394,8 +1634,8 @@
     },
     "slow-enemy-swarm": {
       "frame": {
-        "x": 809,
-        "y": 685,
+        "x": 716,
+        "y": 926,
         "w": 91,
         "h": 83
       },
@@ -1416,34 +1656,10 @@
         "y": 0.4502322516811431
       }
     },
-    "ui-ad": {
-      "frame": {
-        "x": 200,
-        "y": 703,
-        "w": 219,
-        "h": 110
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 219,
-        "h": 110
-      },
-      "sourceSize": {
-        "w": 219,
-        "h": 110
-      },
-      "pivot": {
-        "x": 0.5022831050228311,
-        "y": 0.501240694789082
-      }
-    },
     "ui-coin": {
       "frame": {
-        "x": 508,
-        "y": 820,
+        "x": 378,
+        "y": 926,
         "w": 80,
         "h": 81
       },
@@ -1466,8 +1682,8 @@
     },
     "ui-dot": {
       "frame": {
-        "x": 595,
-        "y": 678,
+        "x": 222,
+        "y": 910,
         "w": 47,
         "h": 48
       },
@@ -1490,8 +1706,8 @@
     },
     "ui-gear": {
       "frame": {
-        "x": 594,
-        "y": 820,
+        "x": 913,
+        "y": 111,
         "w": 88,
         "h": 87
       },
@@ -1514,8 +1730,8 @@
     },
     "ui-music": {
       "frame": {
-        "x": 595,
-        "y": 732,
+        "x": 604,
+        "y": 846,
         "w": 72,
         "h": 73
       },
@@ -1538,8 +1754,8 @@
     },
     "ui-sound": {
       "frame": {
-        "x": 688,
-        "y": 703,
+        "x": 813,
+        "y": 926,
         "w": 72,
         "h": 59
       },
@@ -1562,8 +1778,8 @@
     },
     "ui-swap": {
       "frame": {
-        "x": 688,
-        "y": 768,
+        "x": 847,
+        "y": 617,
         "w": 80,
         "h": 80
       },
@@ -1586,8 +1802,8 @@
     },
     "ui-trophy": {
       "frame": {
-        "x": 688,
-        "y": 854,
+        "x": 933,
+        "y": 204,
         "w": 80,
         "h": 71
       },
@@ -1610,8 +1826,8 @@
     },
     "ui-video": {
       "frame": {
-        "x": 774,
-        "y": 774,
+        "x": 933,
+        "y": 281,
         "w": 80,
         "h": 66
       },
@@ -1637,8 +1853,8 @@
     "image": "art-1.png",
     "format": "RGBA8888",
     "size": {
-      "w": 909,
-      "h": 927
+      "w": 1021,
+      "h": 1013
     },
     "scale": "2"
   }

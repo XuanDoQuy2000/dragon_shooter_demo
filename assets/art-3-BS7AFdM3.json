@@ -1,0 +1,37 @@
+{
+  "frames": {
+    "ui-gift": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 300,
+        "h": 339
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 339
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 339
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5006544868711053
+      }
+    }
+  },
+  "meta": {
+    "image": "art-3.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 304,
+      "h": 343
+    },
+    "scale": "2"
+  }
+}

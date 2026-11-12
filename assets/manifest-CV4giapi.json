@@ -29,9 +29,19 @@
       "data": "art-2.json",
       "width": 922,
       "height": 861,
-      "bytes": 759000,
+      "bytes": 931279,
       "decodedBytes": 3175368,
-      "sha256": "cc65a98835cb5757fcf7cd96aaed537836a8ddb88c149de019423f090aa5a9e6"
+      "sha256": "5e61f6818d28b88d7d010851ce1aeb9780aaba7ccd4fb326d302ad54f4d11a74"
+    },
+    {
+      "name": "art",
+      "image": "art-3.png",
+      "data": "art-3.json",
+      "width": 304,
+      "height": 343,
+      "bytes": 206670,
+      "decodedBytes": 417088,
+      "sha256": "f6ae3ddd91083a16193bed0d667199f54d36079fec9aff85704371b16d6d3978"
     }
   ],
   "assets": [
@@ -3202,6 +3212,127 @@
       "sourceSha256": "35825a58fc54b0ff49a79a783d2b824a28bb56f1553292d45c9375f0f2e34db1"
     },
     {
+      "name": "up-sword",
+      "atlas": "art-2.json",
+      "width": 40,
+      "height": 37.5,
+      "pivot": {
+        "x": 20,
+        "y": 18.666666666666664
+      },
+      "sourceSha256": "46d694b821333fde715e1c3a00ccf41d34d4b83d114b47b81831af458b7e1fc5"
+    },
+    {
+      "name": "up-rate",
+      "atlas": "art-2.json",
+      "width": 44,
+      "height": 27.5,
+      "pivot": {
+        "x": 21.83941605839416,
+        "y": 13.64963503649635
+      },
+      "sourceSha256": "2987d32d04de51252a34b0a08efea2614db91f705b1383e7e95945c26628bc02"
+    },
+    {
+      "name": "up-trait",
+      "atlas": "art-2.json",
+      "width": 39.5,
+      "height": 39.5,
+      "pivot": {
+        "x": 20,
+        "y": 19.66386554621849
+      },
+      "sourceSha256": "76d015cd5619cf16ff962382c2652e719b07937871dce7bd2b1554a3f4978b0a"
+    },
+    {
+      "name": "up-book",
+      "atlas": "art-2.json",
+      "width": 44,
+      "height": 34,
+      "pivot": {
+        "x": 22,
+        "y": 16.753846153846155
+      },
+      "sourceSha256": "e5d091e1e90496b8415ece85b837b18a1c39b2fde4d00a8f3b17a19416d5f8c3"
+    },
+    {
+      "name": "up-step-done",
+      "atlas": "art-2.json",
+      "width": 60,
+      "height": 37,
+      "pivot": {
+        "x": 30,
+        "y": 18.375
+      },
+      "sourceSha256": "9c1a156842e71a22d7f792f5203ddf8e4635e312a198579d2b229fa005d28057"
+    },
+    {
+      "name": "up-step",
+      "atlas": "art-2.json",
+      "width": 60,
+      "height": 37,
+      "pivot": {
+        "x": 30,
+        "y": 18.375
+      },
+      "sourceSha256": "8f414358cc343be6886d0534a311dbb514dc9d893e74ec73a4cb0b05be491248"
+    },
+    {
+      "name": "up-step-star",
+      "atlas": "art-2.json",
+      "width": 60,
+      "height": 37,
+      "pivot": {
+        "x": 30,
+        "y": 18.375
+      },
+      "sourceSha256": "6c12279f3acddfe7ac91921d1f5513c8f9f5ccaea9fbfd9b775c117fb57b71ce"
+    },
+    {
+      "name": "up-tick",
+      "atlas": "art-2.json",
+      "width": 39.5,
+      "height": 35,
+      "pivot": {
+        "x": 19.615384615384617,
+        "y": 17.5
+      },
+      "sourceSha256": "599dd3d229539f87ed6d3bb3249c55948ea165d2a5db1117f66784fe4c1d0fb8"
+    },
+    {
+      "name": "up-rail",
+      "atlas": "art-2.json",
+      "width": 120,
+      "height": 25,
+      "pivot": {
+        "x": 60,
+        "y": 12.46376811594203
+      },
+      "sourceSha256": "517949817808929db3e1c9e4f33e138967ee2ca43dfdd28d9b816dc816d9066d"
+    },
+    {
+      "name": "up-rail-on",
+      "atlas": "art-2.json",
+      "width": 119,
+      "height": 25,
+      "pivot": {
+        "x": 60,
+        "y": 12.578313253012048
+      },
+      "sourceSha256": "4a4e7456b366177eb6845428cb65f387e42e50a55cc0dc251868f4a2ec53ed1c"
+    },
+    {
+      "name": "up-track",
+      "atlas": "art-2.json",
+      "width": 159,
+      "height": 23.5,
+      "pivot": {
+        "x": 80,
+        "y": 11.628721541155867
+      },
+      "sourceSha256": "b54eb429b23af77438f91187deed2c79549d08e18094a632538f67d615cd007a"
+    },
+    {
       "name": "storm-band",
       "atlas": "art-2.json",
       "width": 360,
@@ -3222,6 +3353,17 @@
         "y": 33.037457770270265
       },
       "sourceSha256": "3c8efb5fc8cc4996e7776be211a42ea181ce01ef11f0afc3eb995e39706847d9"
+    },
+    {
+      "name": "ui-gift",
+      "atlas": "art-3.json",
+      "width": 150,
+      "height": 169.5,
+      "pivot": {
+        "x": 75,
+        "y": 84.86093552465233
+      },
+      "sourceSha256": "77b4805b4aee2c7b3623b1431bc8c1db226f2c36da5dc6fde15db0589d081a9b"
     }
   ],
   "sounds": [
@@ -3361,8 +3503,8 @@
     }
   ],
   "totals": {
-    "bytes": 3162665,
-    "decodedBytes": 11278912,
+    "bytes": 3541614,
+    "decodedBytes": 11696000,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

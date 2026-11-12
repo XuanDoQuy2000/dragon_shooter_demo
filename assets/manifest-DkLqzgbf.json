@@ -19,19 +19,19 @@
       "data": "art-1.json",
       "width": 909,
       "height": 927,
-      "bytes": 860500,
+      "bytes": 1019354,
       "decodedBytes": 3370572,
-      "sha256": "86f1c8d2c2433cd2f5a97a63c63c8af198d56182cf3effbc1927f16d7827e959"
+      "sha256": "fec50a36497257d9224cd84684571e35a77db4a168f396ba0ced7b8e5bbb5030"
     },
     {
       "name": "art",
       "image": "art-2.png",
       "data": "art-2.json",
       "width": 724,
-      "height": 132,
-      "bytes": 6957,
-      "decodedBytes": 382272,
-      "sha256": "047711ac0d21ac581ed5c2b785c3245f5dc5db46465ea92f39e3050416ed700a"
+      "height": 615,
+      "bytes": 355809,
+      "decodedBytes": 1781040,
+      "sha256": "b4e22e77d286e0177914bbb6ef16d2851ffd9b1fa5cd4987cc78b0389e0832a8"
     }
   ],
   "assets": [
@@ -2274,6 +2274,105 @@
       "sourceSha256": "13d1f56320970821b05dcae419a91ad120132b7432184a34b8845a42eb9d9556"
     },
     {
+      "name": "ui-coin",
+      "atlas": "art-1.json",
+      "width": 40,
+      "height": 40.5,
+      "pivot": {
+        "x": 20,
+        "y": 20.114942528735632
+      },
+      "sourceSha256": "0c548c05bacd5ba51c8fa64501c230059678f009b77378b9439cccbcf558fa4e"
+    },
+    {
+      "name": "ui-trophy",
+      "atlas": "art-1.json",
+      "width": 40,
+      "height": 35.5,
+      "pivot": {
+        "x": 19.804878048780488,
+        "y": 17.658536585365855
+      },
+      "sourceSha256": "28d1f3f65ebcddb6a36fc3c7fc727126be851efa039d6d7caa815e377e5b7c51"
+    },
+    {
+      "name": "ui-gear",
+      "atlas": "art-1.json",
+      "width": 44,
+      "height": 43.5,
+      "pivot": {
+        "x": 22,
+        "y": 21.66497461928934
+      },
+      "sourceSha256": "887190c08b260b03fd0acdc4f06e33f82324a95858f6f7e4eef7a8b7dfbb93c3"
+    },
+    {
+      "name": "ui-video",
+      "atlas": "art-1.json",
+      "width": 40,
+      "height": 33,
+      "pivot": {
+        "x": 20,
+        "y": 16.504854368932037
+      },
+      "sourceSha256": "b1c018a4bc816e84d483a645e9171110dd874ef7b4c4d5b106776ff700f8f5f3"
+    },
+    {
+      "name": "ui-swap",
+      "atlas": "art-1.json",
+      "width": 40,
+      "height": 40,
+      "pivot": {
+        "x": 20,
+        "y": 20
+      },
+      "sourceSha256": "3d7a2139ced3a4af0b37c335c2c33b57a1334c6f144ac79d19e2889783df9809"
+    },
+    {
+      "name": "ui-music",
+      "atlas": "art-1.json",
+      "width": 36,
+      "height": 36.5,
+      "pivot": {
+        "x": 18,
+        "y": 18.216867469879517
+      },
+      "sourceSha256": "aa6f0c768d0f513648aaa5c6dc5469dfd1658a1f7f57e44c2d94a185d0b66890"
+    },
+    {
+      "name": "ui-sound",
+      "atlas": "art-1.json",
+      "width": 36,
+      "height": 29.5,
+      "pivot": {
+        "x": 17.814432989690722,
+        "y": 14.938144329896907
+      },
+      "sourceSha256": "d064b141531882ab024703b2e974208e25bcf04c4009ea5f6f30e28369cd6604"
+    },
+    {
+      "name": "ui-ad",
+      "atlas": "art-1.json",
+      "width": 109.5,
+      "height": 55,
+      "pivot": {
+        "x": 55.00000000000001,
+        "y": 27.568238213399507
+      },
+      "sourceSha256": "de606889e673b9bed57187643fa78bcbe6ea20e5a09a86fd63bd00446ba73550"
+    },
+    {
+      "name": "ui-dot",
+      "atlas": "art-1.json",
+      "width": 23.5,
+      "height": 24,
+      "pivot": {
+        "x": 11.816793893129772,
+        "y": 11.725190839694656
+      },
+      "sourceSha256": "38d1432501b48bb7306f78674df6727431134d0d5367cde0f2dacc70f60b5c72"
+    },
+    {
       "name": "dragon-ice-s3-body",
       "atlas": "art-1.json",
       "width": 53.5,
@@ -2916,6 +3015,50 @@
       "sourceSha256": "ddba8adc010fa821fd33d5654bd4414dfa4262d37068c72b286d3b5ce54ff68b"
     },
     {
+      "name": "ui-bar",
+      "atlas": "art-2.json",
+      "width": 200,
+      "height": 57.5,
+      "pivot": {
+        "x": 100.00000000000001,
+        "y": 28.84615384615385
+      },
+      "sourceSha256": "8b77743401ffb04c1e409c6d449e8a54e8a4a7b02e32a3b601f04591e9abf8b9"
+    },
+    {
+      "name": "ui-play",
+      "atlas": "art-2.json",
+      "width": 220,
+      "height": 82,
+      "pivot": {
+        "x": 110,
+        "y": 40.92261904761905
+      },
+      "sourceSha256": "7f9765ee1ac3e9d6eb95c0ba2d43823ef03929a609b17a88e2c2d001df1b73ac"
+    },
+    {
+      "name": "ui-square",
+      "atlas": "art-2.json",
+      "width": 95.5,
+      "height": 93,
+      "pivot": {
+        "x": 48,
+        "y": 46.57425742574257
+      },
+      "sourceSha256": "40fb26bc049165fc5ac53e0416c24a5de112d7f518131b184974a2677f7d2b6e"
+    },
+    {
+      "name": "ui-ring",
+      "atlas": "art-2.json",
+      "width": 96,
+      "height": 97.5,
+      "pivot": {
+        "x": 48,
+        "y": 48.99310344827586
+      },
+      "sourceSha256": "a5f558c287d156d28907fc0246747d8a688774d74691eb1277dd02f15cda3531"
+    },
+    {
       "name": "storm-band",
       "atlas": "art-2.json",
       "width": 360,
@@ -3064,8 +3207,8 @@
     }
   ],
   "totals": {
-    "bytes": 1918340,
-    "decodedBytes": 7910244,
+    "bytes": 2426046,
+    "decodedBytes": 9309012,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

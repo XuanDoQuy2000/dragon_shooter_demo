@@ -1,0 +1,133 @@
+{
+  "frames": {
+    "storm-band": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 720,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 720,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 720,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0
+      }
+    },
+    "ui-bar": {
+      "frame": {
+        "x": 2,
+        "y": 136,
+        "w": 400,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5000000000000001,
+        "y": 0.5016722408026757
+      }
+    },
+    "ui-play": {
+      "frame": {
+        "x": 2,
+        "y": 257,
+        "w": 440,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 440,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 440,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.4990563298490128
+      }
+    },
+    "ui-ring": {
+      "frame": {
+        "x": 448,
+        "y": 136,
+        "w": 192,
+        "h": 195
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 195
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 195
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5024933687002653
+      }
+    },
+    "ui-square": {
+      "frame": {
+        "x": 2,
+        "y": 427,
+        "w": 191,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 191,
+        "h": 186
+      },
+      "pivot": {
+        "x": 0.5026178010471204,
+        "y": 0.5007984669434685
+      }
+    }
+  },
+  "meta": {
+    "image": "art-2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 724,
+      "h": 615
+    },
+    "scale": "2"
+  }
+}

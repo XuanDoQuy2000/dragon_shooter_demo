@@ -9,39 +9,39 @@
       "data": "art-0.json",
       "width": 1021,
       "height": 997,
-      "bytes": 1053001,
+      "bytes": 1054204,
       "decodedBytes": 4071748,
-      "sha256": "b3998bd2e9a0456e30abcb7bd30d5b6d0d6cfccc924b4c3c60aa98c265b9ed4b"
+      "sha256": "edaa285bec0f339d7d2e3c49811e91b7185907a9196b8285baf365ca443ad17b"
     },
     {
       "name": "art",
       "image": "art-1.png",
       "data": "art-1.json",
-      "width": 942,
-      "height": 985,
-      "bytes": 1369775,
-      "decodedBytes": 3711480,
-      "sha256": "9476d26d83910f07d7839e2f30e264cc67cd4784a463ea5d49bc1301a8bb529d"
+      "width": 1026,
+      "height": 1005,
+      "bytes": 1545662,
+      "decodedBytes": 4124520,
+      "sha256": "75432b605e6b8d280b4a934611386a5c77400a8398fe5ceadc1644434d3be7ab"
     },
     {
       "name": "art",
       "image": "art-2.png",
       "data": "art-2.json",
-      "width": 943,
-      "height": 1011,
-      "bytes": 1050857,
-      "decodedBytes": 3813492,
-      "sha256": "1ab6774667efa4fb8b14c6293f81bbd68eff429d0616526be66a0be5b59a1414"
+      "width": 961,
+      "height": 873,
+      "bytes": 1079102,
+      "decodedBytes": 3355812,
+      "sha256": "ac854dd8b11f8b999ec11464049699da882a039c92316479e6e34a6943a583bd"
     },
     {
       "name": "art",
       "image": "art-3.png",
       "data": "art-3.json",
-      "width": 304,
-      "height": 343,
-      "bytes": 206670,
-      "decodedBytes": 417088,
-      "sha256": "f6ae3ddd91083a16193bed0d667199f54d36079fec9aff85704371b16d6d3978"
+      "width": 724,
+      "height": 999,
+      "bytes": 478898,
+      "decodedBytes": 2893104,
+      "sha256": "7dcfb476f3a64bdecab262acecd6514da43a8f8f2baf5e525e3e49f9ef48e5f4"
     }
   ],
   "assets": [
@@ -2067,6 +2067,50 @@
       "sourceSha256": "a8c82f5aa137381b70531fc6356ca7dc53c8f02b89ef0ace6d29c4023189198f"
     },
     {
+      "name": "fire-breath-ember-1",
+      "atlas": "art-0.json",
+      "width": 2.5,
+      "height": 4.5,
+      "pivot": {
+        "x": 1.175,
+        "y": 2.7625
+      },
+      "sourceSha256": "157676ac5b070041e37206d28a97fc11f1daea69948a915bc66e02698cc19cf0"
+    },
+    {
+      "name": "fire-breath-ember-2",
+      "atlas": "art-0.json",
+      "width": 3.5,
+      "height": 5.5,
+      "pivot": {
+        "x": 1.375,
+        "y": 2.9749999999999996
+      },
+      "sourceSha256": "6af2e5c6bde9636bf34dfa6560c693f5b3ff785ccad1157660a0287bb7fa8496"
+    },
+    {
+      "name": "fire-breath-ember-3",
+      "atlas": "art-0.json",
+      "width": 3,
+      "height": 6.5,
+      "pivot": {
+        "x": 1.38125,
+        "y": 3.55
+      },
+      "sourceSha256": "ee8388ccee6ff1b8f018d4b3b27d56959a7c3d1ac494e4221c6846e8918afdeb"
+    },
+    {
+      "name": "fire-breath-ember-4",
+      "atlas": "art-0.json",
+      "width": 4,
+      "height": 8,
+      "pivot": {
+        "x": 1.7312500000000002,
+        "y": 4.81875
+      },
+      "sourceSha256": "0859376286c4e96c9170e1cd89902455f76bc13f62705fa084e07b04f03b7b78"
+    },
+    {
       "name": "ice-chip",
       "atlas": "art-0.json",
       "width": 8,
@@ -2210,17 +2254,6 @@
       "sourceSha256": "53563008533b7d4085bd74a094066be3e900b39b4b0ec2e9b45b43dde0db4f82"
     },
     {
-      "name": "map-newest",
-      "atlas": "art-1.json",
-      "width": 96,
-      "height": 94.5,
-      "pivot": {
-        "x": 48,
-        "y": 42.525000000000006
-      },
-      "sourceSha256": "9534641c1e916f369d0c67aa97c684c7fc81e8769a3a5c4a63522b57058bc7a7"
-    },
-    {
       "name": "map-locked",
       "atlas": "art-1.json",
       "width": 96,
@@ -2241,39 +2274,6 @@
         "y": 38.58123569794051
       },
       "sourceSha256": "aec7ff61851f170017fde93dcf1b91d39067c0ece1f7abd1158b9991f2a2e31b"
-    },
-    {
-      "name": "map-sky-closed",
-      "atlas": "art-1.json",
-      "width": 112,
-      "height": 102,
-      "pivot": {
-        "x": 56,
-        "y": 101.88888888888889
-      },
-      "sourceSha256": "e829b17251d2848ed7772c2771e161e18a8b936a2002671cfc8e41bb20b040bf"
-    },
-    {
-      "name": "map-sky-ajar",
-      "atlas": "art-1.json",
-      "width": 111.5,
-      "height": 101.5,
-      "pivot": {
-        "x": 55.74074074074074,
-        "y": 101.88888888888889
-      },
-      "sourceSha256": "19018536231b7ef197122221d4870100ae55b2cc7b12dd2fce24258f05bb1401"
-    },
-    {
-      "name": "map-sky-open",
-      "atlas": "art-1.json",
-      "width": 111.5,
-      "height": 101,
-      "pivot": {
-        "x": 55.74133949191686,
-        "y": 100.87759815242495
-      },
-      "sourceSha256": "991d02db1119aecf718d17ed3194882e6494dac1262c6feab6a18cbea0327759"
     },
     {
       "name": "ui-coin",
@@ -2307,6 +2307,17 @@
         "y": 21.66497461928934
       },
       "sourceSha256": "887190c08b260b03fd0acdc4f06e33f82324a95858f6f7e4eef7a8b7dfbb93c3"
+    },
+    {
+      "name": "ui-video",
+      "atlas": "art-1.json",
+      "width": 40,
+      "height": 33,
+      "pivot": {
+        "x": 20,
+        "y": 16.504854368932037
+      },
+      "sourceSha256": "afca91c54167df2743daed3b9c58c447adefbb2319399155feca007c9c6c5064"
     },
     {
       "name": "ui-swap",
@@ -2362,6 +2373,17 @@
         "y": 23.023255813953487
       },
       "sourceSha256": "bd2dba8121dec78a5b587da04c8a4d68e090d959549492dda248d90f9914402e"
+    },
+    {
+      "name": "road-star-empty",
+      "atlas": "art-1.json",
+      "width": 48,
+      "height": 46.5,
+      "pivot": {
+        "x": 24,
+        "y": 23.285714285714285
+      },
+      "sourceSha256": "d800df94fb09453244d8c41323a7ade74183544eb265334566353ca3058b1449"
     },
     {
       "name": "road-fire",
@@ -2430,6 +2452,17 @@
       "sourceSha256": "237717654890a4fd4ea3f4065ea7c13f64fb0b35d7bbffaf3ae01bbc161450c8"
     },
     {
+      "name": "road-cloud",
+      "atlas": "art-1.json",
+      "width": 109.5,
+      "height": 53,
+      "pivot": {
+        "x": 55,
+        "y": 26.764705882352942
+      },
+      "sourceSha256": "7d86b5d8b42b2a047e23bc42f121bb7e60c216e536711561740d3e33cebffb86"
+    },
+    {
       "name": "road-bubble",
       "atlas": "art-1.json",
       "width": 130,
@@ -2439,6 +2472,105 @@
         "y": 26.462035541195476
       },
       "sourceSha256": "cfa8d0f649543a9be7ef4222648d01d99f7bda10ace9e1f452084cfa5cc0b24b"
+    },
+    {
+      "name": "up-sword",
+      "atlas": "art-1.json",
+      "width": 40,
+      "height": 37.5,
+      "pivot": {
+        "x": 20,
+        "y": 18.666666666666664
+      },
+      "sourceSha256": "46d694b821333fde715e1c3a00ccf41d34d4b83d114b47b81831af458b7e1fc5"
+    },
+    {
+      "name": "up-rate",
+      "atlas": "art-1.json",
+      "width": 44,
+      "height": 27.5,
+      "pivot": {
+        "x": 21.83941605839416,
+        "y": 13.64963503649635
+      },
+      "sourceSha256": "2987d32d04de51252a34b0a08efea2614db91f705b1383e7e95945c26628bc02"
+    },
+    {
+      "name": "up-book",
+      "atlas": "art-1.json",
+      "width": 44,
+      "height": 34,
+      "pivot": {
+        "x": 22,
+        "y": 16.753846153846155
+      },
+      "sourceSha256": "e5d091e1e90496b8415ece85b837b18a1c39b2fde4d00a8f3b17a19416d5f8c3"
+    },
+    {
+      "name": "up-step-done",
+      "atlas": "art-1.json",
+      "width": 60,
+      "height": 37,
+      "pivot": {
+        "x": 30,
+        "y": 18.375
+      },
+      "sourceSha256": "9c1a156842e71a22d7f792f5203ddf8e4635e312a198579d2b229fa005d28057"
+    },
+    {
+      "name": "up-step",
+      "atlas": "art-1.json",
+      "width": 60,
+      "height": 37,
+      "pivot": {
+        "x": 30,
+        "y": 18.375
+      },
+      "sourceSha256": "8f414358cc343be6886d0534a311dbb514dc9d893e74ec73a4cb0b05be491248"
+    },
+    {
+      "name": "up-step-star",
+      "atlas": "art-1.json",
+      "width": 60,
+      "height": 37,
+      "pivot": {
+        "x": 30,
+        "y": 18.375
+      },
+      "sourceSha256": "6c12279f3acddfe7ac91921d1f5513c8f9f5ccaea9fbfd9b775c117fb57b71ce"
+    },
+    {
+      "name": "up-tick",
+      "atlas": "art-1.json",
+      "width": 39.5,
+      "height": 35,
+      "pivot": {
+        "x": 19.615384615384617,
+        "y": 17.5
+      },
+      "sourceSha256": "599dd3d229539f87ed6d3bb3249c55948ea165d2a5db1117f66784fe4c1d0fb8"
+    },
+    {
+      "name": "up-rail",
+      "atlas": "art-1.json",
+      "width": 120,
+      "height": 25,
+      "pivot": {
+        "x": 60,
+        "y": 12.46376811594203
+      },
+      "sourceSha256": "517949817808929db3e1c9e4f33e138967ee2ca43dfdd28d9b816dc816d9066d"
+    },
+    {
+      "name": "up-rail-on",
+      "atlas": "art-1.json",
+      "width": 119,
+      "height": 25,
+      "pivot": {
+        "x": 60,
+        "y": 12.578313253012048
+      },
+      "sourceSha256": "4a4e7456b366177eb6845428cb65f387e42e50a55cc0dc251868f4a2ec53ed1c"
     },
     {
       "name": "dragon-lightning-body-1",
@@ -3035,6 +3167,61 @@
       "sourceSha256": "f0f29fd753596942c83cadbabbf9719576132486d6e50a41ee36d3b3718215c4"
     },
     {
+      "name": "fire-breath-column",
+      "atlas": "art-1.json",
+      "width": 57.5,
+      "height": 259,
+      "pivot": {
+        "x": 27.6,
+        "y": 0
+      },
+      "sourceSha256": "b0e552f301704987be2515a86c716542a738cb7332fa111c0add819bb7603fcf"
+    },
+    {
+      "name": "fire-breath-mouth",
+      "atlas": "art-1.json",
+      "width": 69,
+      "height": 111.5,
+      "pivot": {
+        "x": 33.800000000000004,
+        "y": 109.4
+      },
+      "sourceSha256": "20de9e7368a3c27503cad1f17516088032141aadbdd615bf3b45f2ee560e149f"
+    },
+    {
+      "name": "fire-breath-splash-1",
+      "atlas": "art-1.json",
+      "width": 37,
+      "height": 51,
+      "pivot": {
+        "x": 15.9,
+        "y": 48.800000000000004
+      },
+      "sourceSha256": "11b454a6dc0be77067eeac7dfef674d0cd8b60b7c520f36cfaa8151d97ac7558"
+    },
+    {
+      "name": "fire-breath-splash-2",
+      "atlas": "art-1.json",
+      "width": 47,
+      "height": 55.5,
+      "pivot": {
+        "x": 23.3,
+        "y": 53.6
+      },
+      "sourceSha256": "84133d1bb937f78e59fafec3ea4f5e5c94bd37d66dba80e6009cf35df8ef252f"
+    },
+    {
+      "name": "fire-breath-splash-3",
+      "atlas": "art-1.json",
+      "width": 47,
+      "height": 56.5,
+      "pivot": {
+        "x": 24.5,
+        "y": 54.6
+      },
+      "sourceSha256": "202b2dd9707fca0aa0948e03ef3357659e8112535e73f98f76550347b72d8afe"
+    },
+    {
       "name": "ice-block",
       "atlas": "art-1.json",
       "width": 48,
@@ -3134,28 +3321,6 @@
       "sourceSvgSha256": "2dbaf46487f865fdeb5efb5b0ea6ddc97dc0177f55f4699d80c3684bfc10a304"
     },
     {
-      "name": "slow-enemy-swarm",
-      "atlas": "art-1.json",
-      "width": 45.5,
-      "height": 41.5,
-      "pivot": {
-        "x": 22.607013081395348,
-        "y": 18.68463844476744
-      },
-      "sourceSha256": "bbc14e6142ae5899d9857157656fa57d2d48e4cf7b67b230a306d41140fee900"
-    },
-    {
-      "name": "slow-enemy-shooter",
-      "atlas": "art-1.json",
-      "width": 53,
-      "height": 41,
-      "pivot": {
-        "x": 27.249999999999996,
-        "y": 22.436914062499998
-      },
-      "sourceSha256": "d4b7eeb7bee195006ec6cb41d7a58e8ceccd2d73173a03887c889a3ee18f7572"
-    },
-    {
       "name": "slow-enemy-parachute",
       "atlas": "art-1.json",
       "width": 31,
@@ -3189,15 +3354,48 @@
       "sourceSha256": "e3cf7f58d777ad15b55136dc539daae8f60daf17078efcaff1e7bd17875ceee8"
     },
     {
-      "name": "ui-video",
+      "name": "map-newest",
       "atlas": "art-2.json",
-      "width": 40,
-      "height": 33,
+      "width": 96,
+      "height": 94.5,
       "pivot": {
-        "x": 20,
-        "y": 16.504854368932037
+        "x": 48,
+        "y": 42.525000000000006
       },
-      "sourceSha256": "afca91c54167df2743daed3b9c58c447adefbb2319399155feca007c9c6c5064"
+      "sourceSha256": "9534641c1e916f369d0c67aa97c684c7fc81e8769a3a5c4a63522b57058bc7a7"
+    },
+    {
+      "name": "map-sky-closed",
+      "atlas": "art-2.json",
+      "width": 112,
+      "height": 102,
+      "pivot": {
+        "x": 56,
+        "y": 101.88888888888889
+      },
+      "sourceSha256": "e829b17251d2848ed7772c2771e161e18a8b936a2002671cfc8e41bb20b040bf"
+    },
+    {
+      "name": "map-sky-ajar",
+      "atlas": "art-2.json",
+      "width": 111.5,
+      "height": 101.5,
+      "pivot": {
+        "x": 55.74074074074074,
+        "y": 101.88888888888889
+      },
+      "sourceSha256": "19018536231b7ef197122221d4870100ae55b2cc7b12dd2fce24258f05bb1401"
+    },
+    {
+      "name": "map-sky-open",
+      "atlas": "art-2.json",
+      "width": 111.5,
+      "height": 101,
+      "pivot": {
+        "x": 55.74133949191686,
+        "y": 100.87759815242495
+      },
+      "sourceSha256": "991d02db1119aecf718d17ed3194882e6494dac1262c6feab6a18cbea0327759"
     },
     {
       "name": "ui-bar",
@@ -3222,17 +3420,6 @@
       "sourceSha256": "de606889e673b9bed57187643fa78bcbe6ea20e5a09a86fd63bd00446ba73550"
     },
     {
-      "name": "ui-play",
-      "atlas": "art-2.json",
-      "width": 220,
-      "height": 82,
-      "pivot": {
-        "x": 110,
-        "y": 40.92261904761905
-      },
-      "sourceSha256": "7f9765ee1ac3e9d6eb95c0ba2d43823ef03929a609b17a88e2c2d001df1b73ac"
-    },
-    {
       "name": "ui-square",
       "atlas": "art-2.json",
       "width": 95.5,
@@ -3255,17 +3442,6 @@
       "sourceSha256": "a5f558c287d156d28907fc0246747d8a688774d74691eb1277dd02f15cda3531"
     },
     {
-      "name": "road-star-empty",
-      "atlas": "art-2.json",
-      "width": 48,
-      "height": 46.5,
-      "pivot": {
-        "x": 24,
-        "y": 23.285714285714285
-      },
-      "sourceSha256": "d800df94fb09453244d8c41323a7ade74183544eb265334566353ca3058b1449"
-    },
-    {
       "name": "road-ribbon",
       "atlas": "art-2.json",
       "width": 159.5,
@@ -3275,17 +3451,6 @@
         "y": 27.238095238095237
       },
       "sourceSha256": "5269cc33ae0daf577c7ff9c4aadc7464e77f691bf9971c8ff1c17e9919af91aa"
-    },
-    {
-      "name": "road-cloud",
-      "atlas": "art-2.json",
-      "width": 109.5,
-      "height": 53,
-      "pivot": {
-        "x": 55,
-        "y": 26.764705882352942
-      },
-      "sourceSha256": "7d86b5d8b42b2a047e23bc42f121bb7e60c216e536711561740d3e33cebffb86"
     },
     {
       "name": "road-panel",
@@ -3299,28 +3464,6 @@
       "sourceSha256": "35825a58fc54b0ff49a79a783d2b824a28bb56f1553292d45c9375f0f2e34db1"
     },
     {
-      "name": "up-sword",
-      "atlas": "art-2.json",
-      "width": 40,
-      "height": 37.5,
-      "pivot": {
-        "x": 20,
-        "y": 18.666666666666664
-      },
-      "sourceSha256": "46d694b821333fde715e1c3a00ccf41d34d4b83d114b47b81831af458b7e1fc5"
-    },
-    {
-      "name": "up-rate",
-      "atlas": "art-2.json",
-      "width": 44,
-      "height": 27.5,
-      "pivot": {
-        "x": 21.83941605839416,
-        "y": 13.64963503649635
-      },
-      "sourceSha256": "2987d32d04de51252a34b0a08efea2614db91f705b1383e7e95945c26628bc02"
-    },
-    {
       "name": "up-trait",
       "atlas": "art-2.json",
       "width": 39.5,
@@ -3332,83 +3475,6 @@
       "sourceSha256": "76d015cd5619cf16ff962382c2652e719b07937871dce7bd2b1554a3f4978b0a"
     },
     {
-      "name": "up-book",
-      "atlas": "art-2.json",
-      "width": 44,
-      "height": 34,
-      "pivot": {
-        "x": 22,
-        "y": 16.753846153846155
-      },
-      "sourceSha256": "e5d091e1e90496b8415ece85b837b18a1c39b2fde4d00a8f3b17a19416d5f8c3"
-    },
-    {
-      "name": "up-step-done",
-      "atlas": "art-2.json",
-      "width": 60,
-      "height": 37,
-      "pivot": {
-        "x": 30,
-        "y": 18.375
-      },
-      "sourceSha256": "9c1a156842e71a22d7f792f5203ddf8e4635e312a198579d2b229fa005d28057"
-    },
-    {
-      "name": "up-step",
-      "atlas": "art-2.json",
-      "width": 60,
-      "height": 37,
-      "pivot": {
-        "x": 30,
-        "y": 18.375
-      },
-      "sourceSha256": "8f414358cc343be6886d0534a311dbb514dc9d893e74ec73a4cb0b05be491248"
-    },
-    {
-      "name": "up-step-star",
-      "atlas": "art-2.json",
-      "width": 60,
-      "height": 37,
-      "pivot": {
-        "x": 30,
-        "y": 18.375
-      },
-      "sourceSha256": "6c12279f3acddfe7ac91921d1f5513c8f9f5ccaea9fbfd9b775c117fb57b71ce"
-    },
-    {
-      "name": "up-tick",
-      "atlas": "art-2.json",
-      "width": 39.5,
-      "height": 35,
-      "pivot": {
-        "x": 19.615384615384617,
-        "y": 17.5
-      },
-      "sourceSha256": "599dd3d229539f87ed6d3bb3249c55948ea165d2a5db1117f66784fe4c1d0fb8"
-    },
-    {
-      "name": "up-rail",
-      "atlas": "art-2.json",
-      "width": 120,
-      "height": 25,
-      "pivot": {
-        "x": 60,
-        "y": 12.46376811594203
-      },
-      "sourceSha256": "517949817808929db3e1c9e4f33e138967ee2ca43dfdd28d9b816dc816d9066d"
-    },
-    {
-      "name": "up-rail-on",
-      "atlas": "art-2.json",
-      "width": 119,
-      "height": 25,
-      "pivot": {
-        "x": 60,
-        "y": 12.578313253012048
-      },
-      "sourceSha256": "4a4e7456b366177eb6845428cb65f387e42e50a55cc0dc251868f4a2ec53ed1c"
-    },
-    {
       "name": "up-track",
       "atlas": "art-2.json",
       "width": 159,
@@ -3418,17 +3484,6 @@
         "y": 11.628721541155867
       },
       "sourceSha256": "b54eb429b23af77438f91187deed2c79549d08e18094a632538f67d615cd007a"
-    },
-    {
-      "name": "storm-band",
-      "atlas": "art-2.json",
-      "width": 360,
-      "height": 64,
-      "pivot": {
-        "x": 180,
-        "y": 0
-      },
-      "sourceSvgSha256": "6a48f913e0ed712a15b979a32f85ba18db0c597b9cee4b2d2f8dfb92d8b71607"
     },
     {
       "name": "slow-enemy-small",
@@ -3453,6 +3508,17 @@
       "sourceSha256": "5c74d07ad03285718e55b8323c6b0328d9a9952764552c6d85205a5c3b2616af"
     },
     {
+      "name": "slow-enemy-swarm",
+      "atlas": "art-2.json",
+      "width": 45.5,
+      "height": 41.5,
+      "pivot": {
+        "x": 22.607013081395348,
+        "y": 18.68463844476744
+      },
+      "sourceSha256": "bbc14e6142ae5899d9857157656fa57d2d48e4cf7b67b230a306d41140fee900"
+    },
+    {
       "name": "slow-enemy-ritual",
       "atlas": "art-2.json",
       "width": 53.5,
@@ -3462,6 +3528,17 @@
         "y": 21.3752
       },
       "sourceSha256": "59c2b9f426e57a6d8edf8b903672a34d3bdd13835941308082e740f60add7062"
+    },
+    {
+      "name": "slow-enemy-shooter",
+      "atlas": "art-2.json",
+      "width": 53,
+      "height": 41,
+      "pivot": {
+        "x": 27.249999999999996,
+        "y": 22.436914062499998
+      },
+      "sourceSha256": "d4b7eeb7bee195006ec6cb41d7a58e8ceccd2d73173a03887c889a3ee18f7572"
     },
     {
       "name": "slow-enemy-kamikaze",
@@ -3475,6 +3552,17 @@
       "sourceSha256": "3c8efb5fc8cc4996e7776be211a42ea181ce01ef11f0afc3eb995e39706847d9"
     },
     {
+      "name": "ui-play",
+      "atlas": "art-3.json",
+      "width": 220,
+      "height": 82,
+      "pivot": {
+        "x": 110,
+        "y": 40.92261904761905
+      },
+      "sourceSha256": "7f9765ee1ac3e9d6eb95c0ba2d43823ef03929a609b17a88e2c2d001df1b73ac"
+    },
+    {
       "name": "ui-gift",
       "atlas": "art-3.json",
       "width": 150,
@@ -3484,6 +3572,17 @@
         "y": 84.86093552465233
       },
       "sourceSha256": "77b4805b4aee2c7b3623b1431bc8c1db226f2c36da5dc6fde15db0589d081a9b"
+    },
+    {
+      "name": "storm-band",
+      "atlas": "art-3.json",
+      "width": 360,
+      "height": 240,
+      "pivot": {
+        "x": 180,
+        "y": 0
+      },
+      "sourceSha256": "dff9ac363c8180db46d6561a57453ae7db54ae911553d537219bf157c3f02a6e"
     }
   ],
   "sounds": [
@@ -3623,8 +3722,8 @@
     }
   ],
   "totals": {
-    "bytes": 3680303,
-    "decodedBytes": 12013808,
+    "bytes": 4157866,
+    "decodedBytes": 14445184,
     "audioBytes": 169808,
     "fontBytes": 188872
   }

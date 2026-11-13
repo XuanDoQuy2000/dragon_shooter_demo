@@ -3312,6 +3312,102 @@
         "y": 0.5
       }
     },
+    "fire-breath-ember-1": {
+      "frame": {
+        "x": 450,
+        "y": 687,
+        "w": 5,
+        "h": 9
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 9
+      },
+      "pivot": {
+        "x": 0.47000000000000003,
+        "y": 0.6138888888888889
+      }
+    },
+    "fire-breath-ember-2": {
+      "frame": {
+        "x": 153,
+        "y": 76,
+        "w": 7,
+        "h": 11
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 7,
+        "h": 11
+      },
+      "sourceSize": {
+        "w": 7,
+        "h": 11
+      },
+      "pivot": {
+        "x": 0.39285714285714285,
+        "y": 0.5409090909090909
+      }
+    },
+    "fire-breath-ember-3": {
+      "frame": {
+        "x": 295,
+        "y": 644,
+        "w": 6,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 6,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 6,
+        "h": 13
+      },
+      "pivot": {
+        "x": 0.4604166666666667,
+        "y": 0.5461538461538461
+      }
+    },
+    "fire-breath-ember-4": {
+      "frame": {
+        "x": 630,
+        "y": 466,
+        "w": 8,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 8,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 8,
+        "h": 16
+      },
+      "pivot": {
+        "x": 0.43281250000000004,
+        "y": 0.60234375
+      }
+    },
     "fx-chip": {
       "frame": {
         "x": 482,
@@ -3338,8 +3434,8 @@
     },
     "fx-ember": {
       "frame": {
-        "x": 630,
-        "y": 466,
+        "x": 507,
+        "y": 864,
         "w": 12,
         "h": 16
       },
@@ -3386,8 +3482,8 @@
     },
     "fx-impact": {
       "frame": {
-        "x": 273,
-        "y": 644,
+        "x": 529,
+        "y": 956,
         "w": 28,
         "h": 28
       },
@@ -3482,8 +3578,8 @@
     },
     "ice-chip": {
       "frame": {
-        "x": 648,
-        "y": 466,
+        "x": 273,
+        "y": 644,
         "w": 16,
         "h": 16
       },
@@ -3530,7 +3626,7 @@
     },
     "particle": {
       "frame": {
-        "x": 670,
+        "x": 644,
         "y": 466,
         "w": 16,
         "h": 16

@@ -1,33 +1,9 @@
 {
   "frames": {
-    "storm-band": {
-      "frame": {
-        "x": 2,
-        "y": 2,
-        "w": 720,
-        "h": 480
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 720,
-        "h": 480
-      },
-      "sourceSize": {
-        "w": 720,
-        "h": 480
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0
-      }
-    },
     "ui-gift": {
       "frame": {
         "x": 2,
-        "y": 488,
+        "y": 2,
         "w": 300,
         "h": 339
       },
@@ -50,8 +26,8 @@
     },
     "ui-play": {
       "frame": {
-        "x": 2,
-        "y": 833,
+        "x": 308,
+        "y": 2,
         "w": 440,
         "h": 164
       },
@@ -74,11 +50,11 @@
     }
   },
   "meta": {
-    "image": "art-3.png",
+    "image": "art-4.png",
     "format": "RGBA8888",
     "size": {
-      "w": 724,
-      "h": 999
+      "w": 750,
+      "h": 343
     },
     "scale": "2"
   }

@@ -1,0 +1,133 @@
+{
+  "frames": {
+    "road-panel": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 300,
+        "h": 441
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 441
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 441
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5014471913426617
+      }
+    },
+    "road-ribbon": {
+      "frame": {
+        "x": 308,
+        "y": 2,
+        "w": 319,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 319,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.49917898193760263,
+        "y": 0.49978156400174745
+      }
+    },
+    "storm-band": {
+      "frame": {
+        "x": 2,
+        "y": 449,
+        "w": 720,
+        "h": 480
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 720,
+        "h": 480
+      },
+      "sourceSize": {
+        "w": 720,
+        "h": 480
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0
+      }
+    },
+    "ui-bar": {
+      "frame": {
+        "x": 308,
+        "y": 117,
+        "w": 400,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 400,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5000000000000001,
+        "y": 0.5016722408026757
+      }
+    },
+    "ui-ring": {
+      "frame": {
+        "x": 308,
+        "y": 238,
+        "w": 192,
+        "h": 195
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 195
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 195
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5024933687002653
+      }
+    }
+  },
+  "meta": {
+    "image": "art-3.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 724,
+      "h": 931
+    },
+    "scale": "2"
+  }
+}

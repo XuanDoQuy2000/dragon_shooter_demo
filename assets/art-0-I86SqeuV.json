@@ -3600,12 +3600,60 @@
         "y": 0.5
       }
     },
-    "ice-shard": {
+    "ice-prison-shard-1": {
+      "frame": {
+        "x": 286,
+        "y": 470,
+        "w": 15,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 25
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.49
+      }
+    },
+    "ice-prison-shard-2": {
+      "frame": {
+        "x": 758,
+        "y": 640,
+        "w": 26,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 36
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.4930555555555556
+      }
+    },
+    "ice-prison-shard-3": {
       "frame": {
         "x": 975,
         "y": 785,
         "w": 44,
-        "h": 82
+        "h": 55
       },
       "rotated": false,
       "trimmed": false,
@@ -3613,15 +3661,15 @@
         "x": 0,
         "y": 0,
         "w": 44,
-        "h": 82
+        "h": 55
       },
       "sourceSize": {
         "w": 44,
-        "h": 82
+        "h": 55
       },
       "pivot": {
-        "x": 0.5024396507447354,
-        "y": 0.533622709108447
+        "x": 0.5,
+        "y": 0.5
       }
     },
     "particle": {

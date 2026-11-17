@@ -3742,106 +3742,98 @@
     {
       "name": "shoot",
       "file": "sfx-shoot.wav",
-      "seconds": 0.1,
-      "sampleRate": 22050,
-      "bytes": 4454,
-      "sha256": "32a94f14b1a6439c63c32201509ef7ff0f79d11ddcdc757c36eee844202e9e12"
-    },
-    {
-      "name": "shoot-fire",
-      "file": "sfx-shoot-fire.wav",
-      "seconds": 0.1,
-      "sampleRate": 22050,
-      "bytes": 4454,
-      "sha256": "e02c90d33a5b794bb157b20ffbf82bdc0a3ff93b696e7f7c5ca0a13773076307"
+      "seconds": 0.07,
+      "sampleRate": 16000,
+      "bytes": 2284,
+      "sha256": "97b176e371db80e421c42cc05194c0c0fd26c247aa53083df9568efa5e1ec70d"
     },
     {
       "name": "hit",
       "file": "sfx-hit.wav",
-      "seconds": 0.05,
-      "sampleRate": 22050,
-      "bytes": 2250,
-      "sha256": "c80fcd896df6bfca52cfeb21b8d670a2c07587e63aac90c121c87c46b842a912"
+      "seconds": 0.06,
+      "sampleRate": 16000,
+      "bytes": 1964,
+      "sha256": "1317016d35cd07236d8f2bc6b25f3194b6015c507532b40f864ec155ded20846"
     },
     {
       "name": "kill",
       "file": "sfx-kill.wav",
-      "seconds": 0.5,
-      "sampleRate": 22050,
-      "bytes": 22094,
-      "sha256": "8c0f8fedc1cdcf297947a73bc019e3e4a43e79da8799bc73332a5d509f34e42d"
+      "seconds": 0.26,
+      "sampleRate": 16000,
+      "bytes": 8364,
+      "sha256": "23c122c8abc54b6f65404e8af40fd7ad3d6a1eec36b7304dd590c57236396c33"
     },
     {
       "name": "gem",
       "file": "sfx-gem.wav",
       "seconds": 0.16,
-      "sampleRate": 22050,
-      "bytes": 7100,
-      "sha256": "88b5b6b5678b8de782317e4962c2199b2818b00e76f0deeb15d1b9bba67124c5"
+      "sampleRate": 16000,
+      "bytes": 5164,
+      "sha256": "64921a405d3e6c01e300995eefd2e216be646836377a10ae78d1a20dbe5aec1b"
     },
     {
       "name": "level-up",
       "file": "sfx-level-up.wav",
       "seconds": 0.5,
-      "sampleRate": 22050,
-      "bytes": 22094,
-      "sha256": "e31dd69fecf66894fe33ab364b5f5bf82c87ef1ed48d1a31f96158fda1d6b5f9"
+      "sampleRate": 16000,
+      "bytes": 16044,
+      "sha256": "b2719a3ce2c041dfd93fe70912bcea91b98af0b075a078268cbc857d57ee9fe2"
     },
     {
       "name": "element",
       "file": "sfx-element.wav",
       "seconds": 0.36,
-      "sampleRate": 22050,
-      "bytes": 15920,
-      "sha256": "5e435ef29c5350084a3099230d7050ff03dcd5ae004f738e97347cedc96fb6fb"
+      "sampleRate": 16000,
+      "bytes": 11564,
+      "sha256": "4e60620b51c0c51e2777c459a699113a09f3f0eadbc386a7ae035fbe70d2490c"
     },
     {
       "name": "hurt",
       "file": "sfx-hurt.wav",
       "seconds": 0.32,
-      "sampleRate": 22050,
-      "bytes": 14156,
-      "sha256": "bc356f5d35ea100a2c54838f32d9269e77707e726e720194ed34790661a654ee"
+      "sampleRate": 16000,
+      "bytes": 10284,
+      "sha256": "e76e64c27f9de3e8de39fccc98e951bd74e01d7c92f75bd58f2d026ecd34bb11"
     },
     {
       "name": "rage-full",
       "file": "sfx-rage-full.wav",
       "seconds": 0.36,
-      "sampleRate": 22050,
-      "bytes": 15920,
-      "sha256": "09d2c43484428716371120ac78136b618992b29feb2642733d9e58af24c8cab0"
+      "sampleRate": 16000,
+      "bytes": 11564,
+      "sha256": "309b24a2c4b7294250e51dd1a4e081cd1190800df728bef046abba553ace334d"
     },
     {
       "name": "skill",
       "file": "sfx-skill.wav",
       "seconds": 0.5,
-      "sampleRate": 22050,
-      "bytes": 22094,
-      "sha256": "4e6a71dfa4e81833987045e94ac72117f17b34120d64016e6e21d37caa60c513"
+      "sampleRate": 16000,
+      "bytes": 16044,
+      "sha256": "61440b3b11f9aac0ea3e854a8bfed8403d1fd7e43c86fd3a4a2165685611a046"
     },
     {
       "name": "lose",
       "file": "sfx-lose.wav",
       "seconds": 0.9,
-      "sampleRate": 22050,
-      "bytes": 39734,
-      "sha256": "33f5765e8682cc75c934ff50fb6964519ccf460584dd03312b7960e1ae8e71fa"
+      "sampleRate": 16000,
+      "bytes": 28844,
+      "sha256": "4d670c0b599fca06da3494d36d8073818db8d80ad986850af1810527a4ed243b"
     },
     {
       "name": "win",
       "file": "sfx-win.wav",
       "seconds": 0.8,
-      "sampleRate": 22050,
-      "bytes": 35324,
-      "sha256": "1e99e0aefa31a03c0f0e52088389fe3738dc67f4b77fc51034722e544fbee7f0"
+      "sampleRate": 16000,
+      "bytes": 25644,
+      "sha256": "e4a29d82718834b2badbc258c1580fb576c96bf61b6b6e3acf60c90a355ab2c9"
     },
     {
       "name": "boss-down",
       "file": "sfx-boss-down.wav",
       "seconds": 1,
-      "sampleRate": 22050,
-      "bytes": 44144,
-      "sha256": "b89b933165dc9bc84f5903772c16b14bd824433b7e84ebf25900f93a61a3963d"
+      "sampleRate": 16000,
+      "bytes": 32044,
+      "sha256": "4dfa8b626343711245592c6e8cd7210cf431014ce3544668c7d99888328ef353"
     }
   ],
   "fonts": [
@@ -3882,31 +3874,10 @@
       "sha256": "fe2a663a90e8b5c9db667dd0c3513a3bc1abb8ca661db9089af83b731671b581"
     }
   ],
-  "music": [
-    {
-      "name": "menu",
-      "file": "music-menu.mp3",
-      "loopSeconds": 26.8,
-      "onsetSeconds": 0.08462585034013606,
-      "onsetLevel": 0.1668,
-      "bytes": 328202,
-      "sha256": "aaef02f2a2634d34964f992780444af4f0d2174124fa655914237a4b052e0624"
-    },
-    {
-      "name": "battle",
-      "file": "music-battle.mp3",
-      "loopSeconds": 27.4285625,
-      "onsetSeconds": 0.0041041666666666666,
-      "onsetLevel": 0.1387,
-      "bytes": 447360,
-      "sha256": "17ad0ad6de6bc2fc05131676bd674c592f7ca4d6a3e6ad1120e6b0f488e13981"
-    }
-  ],
   "totals": {
     "bytes": 4637495,
     "decodedBytes": 15630904,
-    "audioBytes": 249738,
-    "musicBytes": 775562,
+    "audioBytes": 169808,
     "fontBytes": 188872
   }
 }
